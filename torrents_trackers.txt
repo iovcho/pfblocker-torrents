@@ -1,6 +1,7 @@
 0.0.0.0 zamunda.net
 0.0.0.0 zamunda.se
 0.0.0.0 zamunda.ch
+0.0.0.0 zelka.org
 0.0.0.0 0.arenabg.com
 0.0.0.0 00-torrnets.com
 0.0.0.0 0day.ro
@@ -3955,6 +3956,7 @@
 0.0.0.0 www.zamunda.net
 0.0.0.0 www.zamunda.se
 0.0.0.0 www.zamunda.ch
+0.0.0.0 www.zelka.org
 0.0.0.0 www.0.arenabg.com
 0.0.0.0 www.00-torrnets.com
 0.0.0.0 www.0day.ro
