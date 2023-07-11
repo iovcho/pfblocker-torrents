@@ -1071,6 +1071,7 @@
 0.0.0.0 geotorrents.com
 0.0.0.0 gerusama.fansub-torrents.com
 0.0.0.0 get.geo.opera.com
+0.0.0.0 getdstudio.cc
 0.0.0.0 getdstudio.cc1-thepiratebay.org
 0.0.0.0 gfxxtra.unblocked.llc
 0.0.0.0 ghost-city.biz
@@ -3546,6 +3547,7 @@
 0.0.0.0 free.publictracker.xyz
 0.0.0.0 freedom.1776.ga
 0.0.0.0 freedomalternative.com
+0.0.0.0 frp.v2fy.com
 0.0.0.0 ftp.pet
 0.0.0.0 fxtt.ru
 0.0.0.0 git.vulnix.sh
@@ -5032,6 +5034,7 @@
 0.0.0.0 www.geotorrents.com
 0.0.0.0 www.gerusama.fansub-torrents.com
 0.0.0.0 www.get.geo.opera.com
+0.0.0.0 www.getdstudio.cc
 0.0.0.0 www.getdstudio.cc1-thepiratebay.org
 0.0.0.0 www.gfxxtra.unblocked.llc
 0.0.0.0 www.ghost-city.biz
@@ -7507,6 +7510,7 @@
 0.0.0.0 www.free.publictracker.xyz
 0.0.0.0 www.freedom.1776.ga
 0.0.0.0 www.freedomalternative.com
+0.0.0.0 www.frp.v2fy.com
 0.0.0.0 www.ftp.pet
 0.0.0.0 www.fxtt.ru
 0.0.0.0 www.git.vulnix.sh
