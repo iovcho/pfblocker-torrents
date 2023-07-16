@@ -3855,6 +3855,7 @@
 0.0.0.0 tracker.peckservers.com
 0.0.0.0 tracker.pimpmyworld.to
 0.0.0.0 tracker.piratepublic.com
+0.0.0.0 tracker.privateseedbox.xyz
 0.0.0.0 tracker.publicbt.com
 0.0.0.0 tracker.publictracker.xyz
 0.0.0.0 tracker.qu.ax
@@ -7818,6 +7819,7 @@
 0.0.0.0 www.tracker.peckservers.com
 0.0.0.0 www.tracker.pimpmyworld.to
 0.0.0.0 www.tracker.piratepublic.com
+0.0.0.0 www.tracker.privateseedbox.xyz
 0.0.0.0 www.tracker.publicbt.com
 0.0.0.0 www.tracker.publictracker.xyz
 0.0.0.0 www.tracker.qu.ax
