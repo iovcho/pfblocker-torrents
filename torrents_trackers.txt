@@ -3449,6 +3449,7 @@
 0.0.0.0 adt.adt-textile.ru
 0.0.0.0 aegir.sexy
 0.0.0.0 aez-srv.srv00.com
+0.0.0.0 anzix.net
 0.0.0.0 api.bitumconference.ru
 0.0.0.0 app.icon256.com
 0.0.0.0 appmeter.ru
@@ -7416,6 +7417,7 @@
 0.0.0.0 www.adt.adt-textile.ru
 0.0.0.0 www.aegir.sexy
 0.0.0.0 www.aez-srv.srv00.com
+0.0.0.0 www.anzix.net
 0.0.0.0 www.api.bitumconference.ru
 0.0.0.0 www.app.icon256.com
 0.0.0.0 www.appmeter.ru
