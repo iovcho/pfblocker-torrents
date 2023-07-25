@@ -3869,6 +3869,7 @@
 0.0.0.0 tracker.rsplwe.com
 0.0.0.0 tracker.sakurato.art
 0.0.0.0 tracker.servequake.com
+0.0.0.0 tracker.sheesh.rip
 0.0.0.0 tracker.shkinev.me
 0.0.0.0 tracker.skynetcloud.site
 0.0.0.0 tracker.skyts.net
@@ -7838,6 +7839,7 @@
 0.0.0.0 www.tracker.rsplwe.com
 0.0.0.0 www.tracker.sakurato.art
 0.0.0.0 www.tracker.servequake.com
+0.0.0.0 www.tracker.sheesh.rip
 0.0.0.0 www.tracker.shkinev.me
 0.0.0.0 www.tracker.skynetcloud.site
 0.0.0.0 www.tracker.skyts.net
