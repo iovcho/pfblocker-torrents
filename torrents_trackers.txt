@@ -3811,6 +3811,7 @@
 0.0.0.0 tracker.feb217.tk
 0.0.0.0 tracker.filepit.to
 0.0.0.0 tracker.flashtorrents.org
+0.0.0.0 tracker.fnix.net
 0.0.0.0 tracker.foreverpirates.co
 0.0.0.0 tracker.fortu.io
 0.0.0.0 tracker.grepler.com
@@ -7782,6 +7783,7 @@
 0.0.0.0 www.tracker.feb217.tk
 0.0.0.0 www.tracker.filepit.to
 0.0.0.0 www.tracker.flashtorrents.org
+0.0.0.0 www.tracker.fnix.net
 0.0.0.0 www.tracker.foreverpirates.co
 0.0.0.0 www.tracker.fortu.io
 0.0.0.0 www.tracker.grepler.com
