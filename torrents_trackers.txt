@@ -3848,6 +3848,7 @@
 0.0.0.0 tracker.monitorit4.me
 0.0.0.0 tracker.msm8916.com
 0.0.0.0 tracker.mywaifu.best
+0.0.0.0 tracker.nartlof.com.br
 0.0.0.0 tracker.nextrp.ru
 0.0.0.0 tracker.novaopcj.eu.org
 0.0.0.0 tracker.nucozer-tracker.ml
@@ -7820,6 +7821,7 @@
 0.0.0.0 www.tracker.monitorit4.me
 0.0.0.0 www.tracker.msm8916.com
 0.0.0.0 www.tracker.mywaifu.best
+0.0.0.0 www.tracker.nartlof.com.br
 0.0.0.0 www.tracker.nextrp.ru
 0.0.0.0 www.tracker.novaopcj.eu.org
 0.0.0.0 www.tracker.nucozer-tracker.ml
