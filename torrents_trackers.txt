@@ -3585,6 +3585,7 @@
 0.0.0.0 jp.moeweb.pw
 0.0.0.0 jsb.by
 0.0.0.0 jutone.com
+0.0.0.0 k.avc.cx
 0.0.0.0 k1.com.br
 0.0.0.0 kanal-4.de
 0.0.0.0 keke.re
@@ -3823,6 +3824,7 @@
 0.0.0.0 tracker.htp.re
 0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.ipfsscan.io
+0.0.0.0 tracker.ipv6tracker.org
 0.0.0.0 tracker.iriseden.fr
 0.0.0.0 tracker.iro.moe
 0.0.0.0 tracker.jiesen.life
@@ -3850,6 +3852,7 @@
 0.0.0.0 tracker.msm8916.com
 0.0.0.0 tracker.mywaifu.best
 0.0.0.0 tracker.nartlof.com.br
+0.0.0.0 tracker.netmap.top
 0.0.0.0 tracker.nextrp.ru
 0.0.0.0 tracker.novaopcj.eu.org
 0.0.0.0 tracker.nucozer-tracker.ml
@@ -7559,6 +7562,7 @@
 0.0.0.0 www.jp.moeweb.pw
 0.0.0.0 www.jsb.by
 0.0.0.0 www.jutone.com
+0.0.0.0 www.k.avc.cx
 0.0.0.0 www.k1.com.br
 0.0.0.0 www.kanal-4.de
 0.0.0.0 www.keke.re
@@ -7797,6 +7801,7 @@
 0.0.0.0 www.tracker.htp.re
 0.0.0.0 www.tracker.idocdn.com
 0.0.0.0 www.tracker.ipfsscan.io
+0.0.0.0 www.tracker.ipv6tracker.org
 0.0.0.0 www.tracker.iriseden.fr
 0.0.0.0 www.tracker.iro.moe
 0.0.0.0 www.tracker.jiesen.life
@@ -7824,6 +7829,7 @@
 0.0.0.0 www.tracker.msm8916.com
 0.0.0.0 www.tracker.mywaifu.best
 0.0.0.0 www.tracker.nartlof.com.br
+0.0.0.0 www.tracker.netmap.top
 0.0.0.0 www.tracker.nextrp.ru
 0.0.0.0 www.tracker.novaopcj.eu.org
 0.0.0.0 www.tracker.nucozer-tracker.ml
