@@ -3818,6 +3818,7 @@
 0.0.0.0 tracker.fortu.io
 0.0.0.0 tracker.grepler.com
 0.0.0.0 tracker.h0me.cc
+0.0.0.0 tracker.h3o2.me
 0.0.0.0 tracker.halfchub.club
 0.0.0.0 tracker.haynet.io
 0.0.0.0 tracker.hiyj.cn
@@ -7795,6 +7796,7 @@
 0.0.0.0 www.tracker.fortu.io
 0.0.0.0 www.tracker.grepler.com
 0.0.0.0 www.tracker.h0me.cc
+0.0.0.0 www.tracker.h3o2.me
 0.0.0.0 www.tracker.halfchub.club
 0.0.0.0 www.tracker.haynet.io
 0.0.0.0 www.tracker.hiyj.cn
