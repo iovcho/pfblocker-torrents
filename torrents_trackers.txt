@@ -3972,6 +3972,7 @@
 0.0.0.0 yahor.of.by
 0.0.0.0 yann5.hexanyn.fr
 0.0.0.0 z.mercax.com
+0.0.0.0 z.paranoid.agency
 0.0.0.0 zecircle.xyz
 0.0.0.0 zephir.monocul.us
 0.0.0.0 zer0day.ch
@@ -7950,6 +7951,7 @@
 0.0.0.0 www.yahor.of.by
 0.0.0.0 www.yann5.hexanyn.fr
 0.0.0.0 www.z.mercax.com
+0.0.0.0 www.z.paranoid.agency
 0.0.0.0 www.zecircle.xyz
 0.0.0.0 www.zephir.monocul.us
 0.0.0.0 www.zer0day.ch
