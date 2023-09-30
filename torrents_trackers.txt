@@ -3964,6 +3964,7 @@
 0.0.0.0 wepzone.net
 0.0.0.0 wg.mortis.me
 0.0.0.0 widemus.de
+0.0.0.0 x.paranoid.agency
 0.0.0.0 x7x.up.railway.app
 0.0.0.0 xarcotic.com
 0.0.0.0 xtremex.herokuapp.com
@@ -7943,6 +7944,7 @@
 0.0.0.0 www.wepzone.net
 0.0.0.0 www.wg.mortis.me
 0.0.0.0 www.widemus.de
+0.0.0.0 www.x.paranoid.agency
 0.0.0.0 www.x7x.up.railway.app
 0.0.0.0 www.xarcotic.com
 0.0.0.0 www.xtremex.herokuapp.com
