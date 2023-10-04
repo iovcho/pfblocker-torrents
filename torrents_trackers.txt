@@ -3969,6 +3969,7 @@
 0.0.0.0 xarcotic.com
 0.0.0.0 xtremex.herokuapp.com
 0.0.0.0 xxx.xxtor.com
+0.0.0.0 y.paranoid.agency
 0.0.0.0 yahor.ftp.sh
 0.0.0.0 yahor.of.by
 0.0.0.0 yann5.hexanyn.fr
@@ -7949,6 +7950,7 @@
 0.0.0.0 www.xarcotic.com
 0.0.0.0 www.xtremex.herokuapp.com
 0.0.0.0 www.xxx.xxtor.com
+0.0.0.0 www.y.paranoid.agency
 0.0.0.0 www.yahor.ftp.sh
 0.0.0.0 www.yahor.of.by
 0.0.0.0 www.yann5.hexanyn.fr
