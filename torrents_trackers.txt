@@ -3683,6 +3683,7 @@
 0.0.0.0 reisub.nsupdate.info
 0.0.0.0 rekcart.duckdns.org
 0.0.0.0 rep-art.ynh.fr
+0.0.0.0 retracker.211.ru
 0.0.0.0 retracker.baikal-telecom.net
 0.0.0.0 retracker.joxnet.ru
 0.0.0.0 retracker.local.msn-net.ru
@@ -7665,6 +7666,7 @@
 0.0.0.0 www.reisub.nsupdate.info
 0.0.0.0 www.rekcart.duckdns.org
 0.0.0.0 www.rep-art.ynh.fr
+0.0.0.0 www.retracker.211.ru
 0.0.0.0 www.retracker.baikal-telecom.net
 0.0.0.0 www.retracker.joxnet.ru
 0.0.0.0 www.retracker.local.msn-net.ru
