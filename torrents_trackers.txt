@@ -3478,6 +3478,7 @@
 0.0.0.0 bt.oiyo.tk
 0.0.0.0 bt.okmp3.ru
 0.0.0.0 bt.plc.mx
+0.0.0.0 bt.xcty.eu.org
 0.0.0.0 bt1.letpo.com
 0.0.0.0 btracker.top
 0.0.0.0 btt.service.gongt.me
@@ -7462,6 +7463,7 @@
 0.0.0.0 www.bt.oiyo.tk
 0.0.0.0 www.bt.okmp3.ru
 0.0.0.0 www.bt.plc.mx
+0.0.0.0 www.bt.xcty.eu.org
 0.0.0.0 www.bt1.letpo.com
 0.0.0.0 www.btracker.top
 0.0.0.0 www.btt.service.gongt.me
