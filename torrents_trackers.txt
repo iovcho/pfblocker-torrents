@@ -3749,6 +3749,7 @@
 0.0.0.0 torrent.tdjs.tech
 0.0.0.0 torrentclub.space
 0.0.0.0 torrents.artixlinux.org
+0.0.0.0 touhou.kawaiiarts.com
 0.0.0.0 tp.m-team.cc
 0.0.0.0 tr.abiir.top
 0.0.0.0 tr.abir.ga
@@ -7734,6 +7735,7 @@
 0.0.0.0 www.torrent.tdjs.tech
 0.0.0.0 www.torrentclub.space
 0.0.0.0 www.torrents.artixlinux.org
+0.0.0.0 www.touhou.kawaiiarts.com
 0.0.0.0 www.tp.m-team.cc
 0.0.0.0 www.tr.abiir.top
 0.0.0.0 www.tr.abir.ga
