@@ -3971,11 +3971,13 @@
 0.0.0.0 widemus.de
 0.0.0.0 x.hz.is
 0.0.0.0 x.paranoid.agency
+0.0.0.0 x.t-1.org
 0.0.0.0 x7x.up.railway.app
 0.0.0.0 xarcotic.com
 0.0.0.0 xtremex.herokuapp.com
 0.0.0.0 xxx.xxtor.com
 0.0.0.0 y.paranoid.agency
+0.0.0.0 y.t-1.org
 0.0.0.0 yahor.ftp.sh
 0.0.0.0 yahor.of.by
 0.0.0.0 yann5.hexanyn.fr
@@ -7958,11 +7960,13 @@
 0.0.0.0 www.widemus.de
 0.0.0.0 www.x.hz.is
 0.0.0.0 www.x.paranoid.agency
+0.0.0.0 www.x.t-1.org
 0.0.0.0 www.x7x.up.railway.app
 0.0.0.0 www.xarcotic.com
 0.0.0.0 www.xtremex.herokuapp.com
 0.0.0.0 www.xxx.xxtor.com
 0.0.0.0 www.y.paranoid.agency
+0.0.0.0 www.y.t-1.org
 0.0.0.0 www.yahor.ftp.sh
 0.0.0.0 www.yahor.of.by
 0.0.0.0 www.yann5.hexanyn.fr
