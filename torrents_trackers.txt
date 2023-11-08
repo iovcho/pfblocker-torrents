@@ -3776,6 +3776,7 @@
 0.0.0.0 tracker.aeerso.space
 0.0.0.0 tracker.aibt.xyz
 0.0.0.0 tracker.altrosky.nl
+0.0.0.0 tracker.anima.nz
 0.0.0.0 tracker.arcbox.cc
 0.0.0.0 tracker.army
 0.0.0.0 tracker.artixlinux.org
@@ -7768,6 +7769,7 @@
 0.0.0.0 www.tracker.aeerso.space
 0.0.0.0 www.tracker.aibt.xyz
 0.0.0.0 www.tracker.altrosky.nl
+0.0.0.0 www.tracker.anima.nz
 0.0.0.0 www.tracker.arcbox.cc
 0.0.0.0 www.tracker.army
 0.0.0.0 www.tracker.artixlinux.org
