@@ -3465,6 +3465,7 @@
 0.0.0.0 benouworldtrip.fr
 0.0.0.0 betasoftsp.com.br
 0.0.0.0 bitsparadise.info
+0.0.0.0 bittorrent-tracker.e-n-c-r-y-p-t.net
 0.0.0.0 bittorrent.gongt.net
 0.0.0.0 black-bird.ynh.fr
 0.0.0.0 blokas.io
@@ -3567,6 +3568,7 @@
 0.0.0.0 home.yxgz.club
 0.0.0.0 home.yxgz.vip
 0.0.0.0 htz3.noho.st
+0.0.0.0 hz.is
 0.0.0.0 hzzwly.gq
 0.0.0.0 i-p-v-6.tk
 0.0.0.0 ibksturm.synology.me
@@ -7458,6 +7460,7 @@
 0.0.0.0 www.benouworldtrip.fr
 0.0.0.0 www.betasoftsp.com.br
 0.0.0.0 www.bitsparadise.info
+0.0.0.0 www.bittorrent-tracker.e-n-c-r-y-p-t.net
 0.0.0.0 www.bittorrent.gongt.net
 0.0.0.0 www.black-bird.ynh.fr
 0.0.0.0 www.blokas.io
@@ -7560,6 +7563,7 @@
 0.0.0.0 www.home.yxgz.club
 0.0.0.0 www.home.yxgz.vip
 0.0.0.0 www.htz3.noho.st
+0.0.0.0 www.hz.is
 0.0.0.0 www.hzzwly.gq
 0.0.0.0 www.i-p-v-6.tk
 0.0.0.0 www.ibksturm.synology.me
