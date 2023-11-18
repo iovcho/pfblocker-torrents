@@ -3835,6 +3835,7 @@
 0.0.0.0 tracker.hiyj.cn
 0.0.0.0 tracker.htp.re
 0.0.0.0 tracker.idocdn.com
+0.0.0.0 tracker.iperson.xyz
 0.0.0.0 tracker.ipfsscan.io
 0.0.0.0 tracker.ipv6tracker.org
 0.0.0.0 tracker.iriseden.fr
@@ -7830,6 +7831,7 @@
 0.0.0.0 www.tracker.hiyj.cn
 0.0.0.0 www.tracker.htp.re
 0.0.0.0 www.tracker.idocdn.com
+0.0.0.0 www.tracker.iperson.xyz
 0.0.0.0 www.tracker.ipfsscan.io
 0.0.0.0 www.tracker.ipv6tracker.org
 0.0.0.0 www.tracker.iriseden.fr
