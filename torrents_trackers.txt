@@ -3885,6 +3885,7 @@
 0.0.0.0 tracker.qu.ax
 0.0.0.0 tracker.quix.cf
 0.0.0.0 tracker.renfei.net
+0.0.0.0 tracker.rev.pm
 0.0.0.0 tracker.rp-api.tech
 0.0.0.0 tracker.rsplwe.com
 0.0.0.0 tracker.sakurato.art
@@ -7881,6 +7882,7 @@
 0.0.0.0 www.tracker.qu.ax
 0.0.0.0 www.tracker.quix.cf
 0.0.0.0 www.tracker.renfei.net
+0.0.0.0 www.tracker.rev.pm
 0.0.0.0 www.tracker.rp-api.tech
 0.0.0.0 www.tracker.rsplwe.com
 0.0.0.0 www.tracker.sakurato.art
