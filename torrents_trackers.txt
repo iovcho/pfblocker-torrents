@@ -3840,6 +3840,7 @@
 0.0.0.0 tracker.ipv6tracker.org
 0.0.0.0 tracker.iriseden.fr
 0.0.0.0 tracker.iro.moe
+0.0.0.0 tracker.jdx3.org
 0.0.0.0 tracker.jiesen.life
 0.0.0.0 tracker.jonaslsa.com
 0.0.0.0 tracker.jordan.im
@@ -7838,6 +7839,7 @@
 0.0.0.0 www.tracker.ipv6tracker.org
 0.0.0.0 www.tracker.iriseden.fr
 0.0.0.0 www.tracker.iro.moe
+0.0.0.0 www.tracker.jdx3.org
 0.0.0.0 www.tracker.jiesen.life
 0.0.0.0 www.tracker.jonaslsa.com
 0.0.0.0 www.tracker.jordan.im
