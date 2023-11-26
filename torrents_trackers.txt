@@ -230,9 +230,12 @@
 0.0.0.0 atrack-asia-s1.114913.xyz
 0.0.0.0 atrack.pow7.com
 0.0.0.0 audiobit.ru
+0.0.0.0 audiobookbay.is
 0.0.0.0 audiobookbay.la
+0.0.0.0 audiobookbay.li
 0.0.0.0 audiobookbay.me
 0.0.0.0 audiobookbay.nl
+0.0.0.0 audiobookbay.se
 0.0.0.0 audiobookol.com
 0.0.0.0 audiofarm.cc
 0.0.0.0 audionews.org
@@ -2221,6 +2224,7 @@
 0.0.0.0 shi-fa.cjb.net
 0.0.0.0 shnflac.net
 0.0.0.0 showbits.org
+0.0.0.0 showrss.info
 0.0.0.0 siambit.com
 0.0.0.0 siambt.com
 0.0.0.0 sidewinderx.sytes.net
@@ -4229,9 +4233,12 @@
 0.0.0.0 www.atrack-asia-s1.114913.xyz
 0.0.0.0 www.atrack.pow7.com
 0.0.0.0 www.audiobit.ru
+0.0.0.0 www.audiobookbay.is
 0.0.0.0 www.audiobookbay.la
+0.0.0.0 www.audiobookbay.li
 0.0.0.0 www.audiobookbay.me
 0.0.0.0 www.audiobookbay.nl
+0.0.0.0 www.audiobookbay.se
 0.0.0.0 www.audiobookol.com
 0.0.0.0 www.audiofarm.cc
 0.0.0.0 www.audionews.org
@@ -6220,6 +6227,7 @@
 0.0.0.0 www.shi-fa.cjb.net
 0.0.0.0 www.shnflac.net
 0.0.0.0 www.showbits.org
+0.0.0.0 www.showrss.info
 0.0.0.0 www.siambit.com
 0.0.0.0 www.siambt.com
 0.0.0.0 www.sidewinderx.sytes.net
