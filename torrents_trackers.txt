@@ -3484,6 +3484,7 @@
 0.0.0.0 bt.oiyo.tk
 0.0.0.0 bt.okmp3.ru
 0.0.0.0 bt.plc.mx
+0.0.0.0 bt.rer.lol
 0.0.0.0 bt.xcty.eu.org
 0.0.0.0 bt1.letpo.com
 0.0.0.0 btracker.top
@@ -3831,6 +3832,7 @@
 0.0.0.0 tracker.fnix.net
 0.0.0.0 tracker.foreverpirates.co
 0.0.0.0 tracker.fortu.io
+0.0.0.0 tracker.gcrreen.xyz
 0.0.0.0 tracker.grepler.com
 0.0.0.0 tracker.h0me.cc
 0.0.0.0 tracker.h3o2.me
@@ -3995,6 +3997,7 @@
 0.0.0.0 yahor.ftp.sh
 0.0.0.0 yahor.of.by
 0.0.0.0 yann5.hexanyn.fr
+0.0.0.0 yolo.liberbear.com
 0.0.0.0 z.mercax.com
 0.0.0.0 z.paranoid.agency
 0.0.0.0 zecircle.xyz
@@ -7487,6 +7490,7 @@
 0.0.0.0 www.bt.oiyo.tk
 0.0.0.0 www.bt.okmp3.ru
 0.0.0.0 www.bt.plc.mx
+0.0.0.0 www.bt.rer.lol
 0.0.0.0 www.bt.xcty.eu.org
 0.0.0.0 www.bt1.letpo.com
 0.0.0.0 www.btracker.top
@@ -7834,6 +7838,7 @@
 0.0.0.0 www.tracker.fnix.net
 0.0.0.0 www.tracker.foreverpirates.co
 0.0.0.0 www.tracker.fortu.io
+0.0.0.0 www.tracker.gcrreen.xyz
 0.0.0.0 www.tracker.grepler.com
 0.0.0.0 www.tracker.h0me.cc
 0.0.0.0 www.tracker.h3o2.me
@@ -7998,6 +8003,7 @@
 0.0.0.0 www.yahor.ftp.sh
 0.0.0.0 www.yahor.of.by
 0.0.0.0 www.yann5.hexanyn.fr
+0.0.0.0 www.yolo.liberbear.com
 0.0.0.0 www.z.mercax.com
 0.0.0.0 www.z.paranoid.agency
 0.0.0.0 www.zecircle.xyz
