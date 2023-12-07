@@ -3865,6 +3865,7 @@
 0.0.0.0 tracker.m-team.cc
 0.0.0.0 tracker.madassnews.net
 0.0.0.0 tracker.merded.xyz
+0.0.0.0 tracker.mirrorbay.org
 0.0.0.0 tracker.mlsub.net
 0.0.0.0 tracker.moeblog.cn
 0.0.0.0 tracker.moeking.eu.org
@@ -7871,6 +7872,7 @@
 0.0.0.0 www.tracker.m-team.cc
 0.0.0.0 www.tracker.madassnews.net
 0.0.0.0 www.tracker.merded.xyz
+0.0.0.0 www.tracker.mirrorbay.org
 0.0.0.0 www.tracker.mlsub.net
 0.0.0.0 www.tracker.moeblog.cn
 0.0.0.0 www.tracker.moeking.eu.org
