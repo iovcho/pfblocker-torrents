@@ -3916,6 +3916,7 @@
 0.0.0.0 tracker.therarbg.com
 0.0.0.0 tracker.therarbg.to
 0.0.0.0 tracker.torrentbay.to
+0.0.0.0 tracker.torrust-demo.com
 0.0.0.0 tracker.trackton.ga
 0.0.0.0 tracker.trojangogogo.site
 0.0.0.0 tracker.tryhackx.org
@@ -7924,6 +7925,7 @@
 0.0.0.0 www.tracker.therarbg.com
 0.0.0.0 www.tracker.therarbg.to
 0.0.0.0 www.tracker.torrentbay.to
+0.0.0.0 www.tracker.torrust-demo.com
 0.0.0.0 www.tracker.trackton.ga
 0.0.0.0 www.tracker.trojangogogo.site
 0.0.0.0 www.tracker.tryhackx.org
