@@ -3698,6 +3698,7 @@
 0.0.0.0 retracker.211.ru
 0.0.0.0 retracker.baikal-telecom.net
 0.0.0.0 retracker.joxnet.ru
+0.0.0.0 retracker.lanta.me
 0.0.0.0 retracker.local.msn-net.ru
 0.0.0.0 retracker.nts.su
 0.0.0.0 retracker01-msk-virt.corbina.net
@@ -7707,6 +7708,7 @@
 0.0.0.0 www.retracker.211.ru
 0.0.0.0 www.retracker.baikal-telecom.net
 0.0.0.0 www.retracker.joxnet.ru
+0.0.0.0 www.retracker.lanta.me
 0.0.0.0 www.retracker.local.msn-net.ru
 0.0.0.0 www.retracker.nts.su
 0.0.0.0 www.retracker01-msk-virt.corbina.net
