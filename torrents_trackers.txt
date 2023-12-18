@@ -3454,6 +3454,7 @@
 0.0.0.0 aegir.sexy
 0.0.0.0 aez-srv.srv00.com
 0.0.0.0 anzix.net
+0.0.0.0 api.alarmasqueretaro.com
 0.0.0.0 api.bitumconference.ru
 0.0.0.0 app.icon256.com
 0.0.0.0 appmeter.ru
@@ -3587,6 +3588,7 @@
 0.0.0.0 ipv6.babico.name.tr
 0.0.0.0 ipv6.fuuuuuck.com
 0.0.0.0 ipv6.govt.hu
+0.0.0.0 ipv6.rer.lol
 0.0.0.0 ipv6.tracker.harry.lu
 0.0.0.0 ipv6.tracker.monitorit4.me
 0.0.0.0 ipv6.tracker.zerobytes.xyz
@@ -7464,6 +7466,7 @@
 0.0.0.0 www.aegir.sexy
 0.0.0.0 www.aez-srv.srv00.com
 0.0.0.0 www.anzix.net
+0.0.0.0 www.api.alarmasqueretaro.com
 0.0.0.0 www.api.bitumconference.ru
 0.0.0.0 www.app.icon256.com
 0.0.0.0 www.appmeter.ru
@@ -7597,6 +7600,7 @@
 0.0.0.0 www.ipv6.babico.name.tr
 0.0.0.0 www.ipv6.fuuuuuck.com
 0.0.0.0 www.ipv6.govt.hu
+0.0.0.0 www.ipv6.rer.lol
 0.0.0.0 www.ipv6.tracker.harry.lu
 0.0.0.0 www.ipv6.tracker.monitorit4.me
 0.0.0.0 www.ipv6.tracker.zerobytes.xyz
