@@ -3419,6 +3419,7 @@
 0.0.0.0 zooqle.unblocked.llc
 0.0.0.0 zoozle.org
 0.0.0.0 ztracker.hu
+0.0.0.0 00.alarmasqueretaro.com
 0.0.0.0 00.xxtor.com
 0.0.0.0 0205.uptm.ch
 0.0.0.0 1.tracker.eu.org
@@ -7431,6 +7432,7 @@
 0.0.0.0 www.zooqle.unblocked.llc
 0.0.0.0 www.zoozle.org
 0.0.0.0 www.ztracker.hu
+0.0.0.0 www.00.alarmasqueretaro.com
 0.0.0.0 www.00.xxtor.com
 0.0.0.0 www.0205.uptm.ch
 0.0.0.0 www.1.tracker.eu.org
