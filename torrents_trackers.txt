@@ -3842,6 +3842,7 @@
 0.0.0.0 tracker.h3o2.me
 0.0.0.0 tracker.halfchub.club
 0.0.0.0 tracker.haynet.io
+0.0.0.0 tracker.hentai.gg
 0.0.0.0 tracker.hiyj.cn
 0.0.0.0 tracker.htp.re
 0.0.0.0 tracker.idocdn.com
@@ -7855,6 +7856,7 @@
 0.0.0.0 www.tracker.h3o2.me
 0.0.0.0 www.tracker.halfchub.club
 0.0.0.0 www.tracker.haynet.io
+0.0.0.0 www.tracker.hentai.gg
 0.0.0.0 www.tracker.hiyj.cn
 0.0.0.0 www.tracker.htp.re
 0.0.0.0 www.tracker.idocdn.com
