@@ -3478,6 +3478,7 @@
 0.0.0.0 bms-hosxp.com
 0.0.0.0 box.ossete.eu.org
 0.0.0.0 boysbitte.be
+0.0.0.0 brokenstones.is
 0.0.0.0 bruh.cluster.ws
 0.0.0.0 bt.080609.xyz
 0.0.0.0 bt.3kb.xyz
@@ -3582,6 +3583,7 @@
 0.0.0.0 incine.ru
 0.0.0.0 inferno.demonoid.is
 0.0.0.0 inferno.demonoid.pw
+0.0.0.0 ip.getcrazy.me
 0.0.0.0 ip119.ip-146-59-102.eu
 0.0.0.0 ipv4announce.sktorrent.eu
 0.0.0.0 ipv6.1337.cx
@@ -3630,6 +3632,7 @@
 0.0.0.0 mikrotik2.draatman.net
 0.0.0.0 milanesitracker.tekcities.com
 0.0.0.0 mirror.aptus.co.tz
+0.0.0.0 mma-tracker.org
 0.0.0.0 moeweb.pw
 0.0.0.0 montreal.nyap2p.com
 0.0.0.0 moonburrow.club
@@ -3851,6 +3854,7 @@
 0.0.0.0 tracker.ipv6tracker.org
 0.0.0.0 tracker.iriseden.fr
 0.0.0.0 tracker.iro.moe
+0.0.0.0 tracker.jamesthebard.net
 0.0.0.0 tracker.jdx3.org
 0.0.0.0 tracker.jiesen.life
 0.0.0.0 tracker.jonaslsa.com
@@ -7492,6 +7496,7 @@
 0.0.0.0 www.bms-hosxp.com
 0.0.0.0 www.box.ossete.eu.org
 0.0.0.0 www.boysbitte.be
+0.0.0.0 www.brokenstones.is
 0.0.0.0 www.bruh.cluster.ws
 0.0.0.0 www.bt.080609.xyz
 0.0.0.0 www.bt.3kb.xyz
@@ -7596,6 +7601,7 @@
 0.0.0.0 www.incine.ru
 0.0.0.0 www.inferno.demonoid.is
 0.0.0.0 www.inferno.demonoid.pw
+0.0.0.0 www.ip.getcrazy.me
 0.0.0.0 www.ip119.ip-146-59-102.eu
 0.0.0.0 www.ipv4announce.sktorrent.eu
 0.0.0.0 www.ipv6.1337.cx
@@ -7644,6 +7650,7 @@
 0.0.0.0 www.mikrotik2.draatman.net
 0.0.0.0 www.milanesitracker.tekcities.com
 0.0.0.0 www.mirror.aptus.co.tz
+0.0.0.0 www.mma-tracker.org
 0.0.0.0 www.moeweb.pw
 0.0.0.0 www.montreal.nyap2p.com
 0.0.0.0 www.moonburrow.club
@@ -7865,6 +7872,7 @@
 0.0.0.0 www.tracker.ipv6tracker.org
 0.0.0.0 www.tracker.iriseden.fr
 0.0.0.0 www.tracker.iro.moe
+0.0.0.0 www.tracker.jamesthebard.net
 0.0.0.0 www.tracker.jdx3.org
 0.0.0.0 www.tracker.jiesen.life
 0.0.0.0 www.tracker.jonaslsa.com
