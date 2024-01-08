@@ -3932,6 +3932,7 @@
 0.0.0.0 tracker.tvgc.win
 0.0.0.0 tracker.tvunderground.org.ru
 0.0.0.0 tracker.v6speed.org
+0.0.0.0 tracker.vds.nz
 0.0.0.0 tracker.vectahosting.eu
 0.0.0.0 tracker.vraphim.com
 0.0.0.0 tracker.vrpnet.org
@@ -7950,6 +7951,7 @@
 0.0.0.0 www.tracker.tvgc.win
 0.0.0.0 www.tracker.tvunderground.org.ru
 0.0.0.0 www.tracker.v6speed.org
+0.0.0.0 www.tracker.vds.nz
 0.0.0.0 www.tracker.vectahosting.eu
 0.0.0.0 www.tracker.vraphim.com
 0.0.0.0 www.tracker.vrpnet.org
