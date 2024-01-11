@@ -3445,6 +3445,7 @@
 0.0.0.0 a.cdd5090t.tk
 0.0.0.0 aarsen.me
 0.0.0.0 abir0dev.github.io
+0.0.0.0 aboutbeautifulgallopinghorsesinthegreenpasture.online
 0.0.0.0 abufinzio.monocul.us
 0.0.0.0 acxx.de
 0.0.0.0 adm.category5.tv
@@ -3719,6 +3720,7 @@
 0.0.0.0 sanincode.com
 0.0.0.0 sd-161673.dedibox.fr
 0.0.0.0 shadowshq.eddie4.nl
+0.0.0.0 shahidrazi.online
 0.0.0.0 shizzle.hammetjus.nl
 0.0.0.0 shogiroom.com
 0.0.0.0 shubt.net
@@ -3776,6 +3778,8 @@
 0.0.0.0 tr.doogh.club
 0.0.0.0 tr.fuckbitcoin.xyz
 0.0.0.0 tr.highstar.shop
+0.0.0.0 tr.qfruiti.com
+0.0.0.0 tr.qfruiti.in
 0.0.0.0 tr.torland.ga
 0.0.0.0 tr2.cubonegro.lol
 0.0.0.0 tr2.ysagin.top
@@ -7465,6 +7469,7 @@
 0.0.0.0 www.a.cdd5090t.tk
 0.0.0.0 www.aarsen.me
 0.0.0.0 www.abir0dev.github.io
+0.0.0.0 www.aboutbeautifulgallopinghorsesinthegreenpasture.online
 0.0.0.0 www.abufinzio.monocul.us
 0.0.0.0 www.acxx.de
 0.0.0.0 www.adm.category5.tv
@@ -7739,6 +7744,7 @@
 0.0.0.0 www.sanincode.com
 0.0.0.0 www.sd-161673.dedibox.fr
 0.0.0.0 www.shadowshq.eddie4.nl
+0.0.0.0 www.shahidrazi.online
 0.0.0.0 www.shizzle.hammetjus.nl
 0.0.0.0 www.shogiroom.com
 0.0.0.0 www.shubt.net
@@ -7796,6 +7802,8 @@
 0.0.0.0 www.tr.doogh.club
 0.0.0.0 www.tr.fuckbitcoin.xyz
 0.0.0.0 www.tr.highstar.shop
+0.0.0.0 www.tr.qfruiti.com
+0.0.0.0 www.tr.qfruiti.in
 0.0.0.0 www.tr.torland.ga
 0.0.0.0 www.tr2.cubonegro.lol
 0.0.0.0 www.tr2.ysagin.top
