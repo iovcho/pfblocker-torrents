@@ -3698,6 +3698,7 @@
 0.0.0.0 puresynergy.com
 0.0.0.0 pxnet.ru
 0.0.0.0 qtstm32fan.ru
+0.0.0.0 r.l5.ca
 0.0.0.0 ransan.tk
 0.0.0.0 region.nl1.privex.cc
 0.0.0.0 reisub.nsupdate.info
@@ -7723,6 +7724,7 @@
 0.0.0.0 www.puresynergy.com
 0.0.0.0 www.pxnet.ru
 0.0.0.0 www.qtstm32fan.ru
+0.0.0.0 www.r.l5.ca
 0.0.0.0 www.ransan.tk
 0.0.0.0 www.region.nl1.privex.cc
 0.0.0.0 www.reisub.nsupdate.info
