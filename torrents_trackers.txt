@@ -3818,6 +3818,7 @@
 0.0.0.0 tracker.coppersurfer.site
 0.0.0.0 tracker.corpscorp.online
 0.0.0.0 tracker.crawfish.cf
+0.0.0.0 tracker.cubicview.site
 0.0.0.0 tracker.cubonegro.lol
 0.0.0.0 tracker.cubonegro.xyz
 0.0.0.0 tracker.cyber-hub.net
@@ -7844,6 +7845,7 @@
 0.0.0.0 www.tracker.coppersurfer.site
 0.0.0.0 www.tracker.corpscorp.online
 0.0.0.0 www.tracker.crawfish.cf
+0.0.0.0 www.tracker.cubicview.site
 0.0.0.0 www.tracker.cubonegro.lol
 0.0.0.0 www.tracker.cubonegro.xyz
 0.0.0.0 www.tracker.cyber-hub.net
