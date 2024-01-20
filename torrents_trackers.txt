@@ -3477,6 +3477,7 @@
 0.0.0.0 black-bird.ynh.fr
 0.0.0.0 blokas.io
 0.0.0.0 bms-hosxp.com
+0.0.0.0 bot.ponomar-sibir.ru
 0.0.0.0 box.ossete.eu.org
 0.0.0.0 boysbitte.be
 0.0.0.0 brokenstones.is
@@ -7504,6 +7505,7 @@
 0.0.0.0 www.black-bird.ynh.fr
 0.0.0.0 www.blokas.io
 0.0.0.0 www.bms-hosxp.com
+0.0.0.0 www.bot.ponomar-sibir.ru
 0.0.0.0 www.box.ossete.eu.org
 0.0.0.0 www.boysbitte.be
 0.0.0.0 www.brokenstones.is
