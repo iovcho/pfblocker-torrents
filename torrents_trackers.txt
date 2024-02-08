@@ -3684,6 +3684,7 @@
 0.0.0.0 parag.rs
 0.0.0.0 peerfect.org
 0.0.0.0 pirate.hz.is
+0.0.0.0 pirate.t-1.org
 0.0.0.0 pldm.ml
 0.0.0.0 prestige.minimafia.nl
 0.0.0.0 private.anonseed.com
@@ -7713,6 +7714,7 @@
 0.0.0.0 www.parag.rs
 0.0.0.0 www.peerfect.org
 0.0.0.0 www.pirate.hz.is
+0.0.0.0 www.pirate.t-1.org
 0.0.0.0 www.pldm.ml
 0.0.0.0 www.prestige.minimafia.nl
 0.0.0.0 www.private.anonseed.com
