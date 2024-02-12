@@ -3768,6 +3768,7 @@
 0.0.0.0 tk1.trackerservers.com
 0.0.0.0 tk1v6.trackerservers.com
 0.0.0.0 torrent-tracker.hama3.net
+0.0.0.0 torrent.hificode.in
 0.0.0.0 torrent.skynetcenter.me
 0.0.0.0 torrent.tdjs.tech
 0.0.0.0 torrentclub.space
@@ -7798,6 +7799,7 @@
 0.0.0.0 www.tk1.trackerservers.com
 0.0.0.0 www.tk1v6.trackerservers.com
 0.0.0.0 www.torrent-tracker.hama3.net
+0.0.0.0 www.torrent.hificode.in
 0.0.0.0 www.torrent.skynetcenter.me
 0.0.0.0 www.torrent.tdjs.tech
 0.0.0.0 www.torrentclub.space
