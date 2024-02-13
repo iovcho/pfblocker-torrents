@@ -3587,6 +3587,7 @@
 0.0.0.0 inferno.demonoid.pw
 0.0.0.0 ip.getcrazy.me
 0.0.0.0 ip119.ip-146-59-102.eu
+0.0.0.0 ipv4.rer.lol
 0.0.0.0 ipv4announce.sktorrent.eu
 0.0.0.0 ipv6.1337.cx
 0.0.0.0 ipv6.69.mu
@@ -3671,6 +3672,7 @@
 0.0.0.0 open.tracker.cl
 0.0.0.0 open.tracker.ink
 0.0.0.0 open.u-p.pw
+0.0.0.0 open.va.wiki
 0.0.0.0 open.xxtor.com
 0.0.0.0 open6.demonii.com
 0.0.0.0 opentracker.cc
@@ -7618,6 +7620,7 @@
 0.0.0.0 www.inferno.demonoid.pw
 0.0.0.0 www.ip.getcrazy.me
 0.0.0.0 www.ip119.ip-146-59-102.eu
+0.0.0.0 www.ipv4.rer.lol
 0.0.0.0 www.ipv4announce.sktorrent.eu
 0.0.0.0 www.ipv6.1337.cx
 0.0.0.0 www.ipv6.69.mu
@@ -7702,6 +7705,7 @@
 0.0.0.0 www.open.tracker.cl
 0.0.0.0 www.open.tracker.ink
 0.0.0.0 www.open.u-p.pw
+0.0.0.0 www.open.va.wiki
 0.0.0.0 www.open.xxtor.com
 0.0.0.0 www.open6.demonii.com
 0.0.0.0 www.opentracker.cc
