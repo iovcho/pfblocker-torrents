@@ -3796,6 +3796,7 @@
 0.0.0.0 tracker.0x.tf
 0.0.0.0 tracker.0x7c0.com
 0.0.0.0 tracker.3304399.com
+0.0.0.0 tracker.3moredays.com
 0.0.0.0 tracker.4.babico.name.tr
 0.0.0.0 tracker.6.babico.name.tr
 0.0.0.0 tracker.aeerso.space
@@ -7829,6 +7830,7 @@
 0.0.0.0 www.tracker.0x.tf
 0.0.0.0 www.tracker.0x7c0.com
 0.0.0.0 www.tracker.3304399.com
+0.0.0.0 www.tracker.3moredays.com
 0.0.0.0 www.tracker.4.babico.name.tr
 0.0.0.0 www.tracker.6.babico.name.tr
 0.0.0.0 www.tracker.aeerso.space
