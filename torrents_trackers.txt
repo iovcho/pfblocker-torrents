@@ -3790,6 +3790,7 @@
 0.0.0.0 tr2.cubonegro.lol
 0.0.0.0 tr2.ysagin.top
 0.0.0.0 track.plop.pm
+0.0.0.0 track3r.site
 0.0.0.0 tracker-udp.gbitt.info
 0.0.0.0 tracker-v6.zooki.xyz
 0.0.0.0 tracker.0o.is
@@ -7824,6 +7825,7 @@
 0.0.0.0 www.tr2.cubonegro.lol
 0.0.0.0 www.tr2.ysagin.top
 0.0.0.0 www.track.plop.pm
+0.0.0.0 www.track3r.site
 0.0.0.0 www.tracker-udp.gbitt.info
 0.0.0.0 www.tracker-v6.zooki.xyz
 0.0.0.0 www.tracker.0o.is
