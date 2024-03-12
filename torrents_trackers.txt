@@ -1485,7 +1485,6 @@
 0.0.0.0 mazysmadhouse.net
 0.0.0.0 mazysnuthouse.org
 0.0.0.0 mb4t.info
-0.0.0.0 mc.yandex.ru Issue 156
 0.0.0.0 md-torrents.ruhome
 0.0.0.0 mdown.org
 0.0.0.0 medbit.ru
@@ -2326,7 +2325,6 @@
 0.0.0.0 supertorrents.org
 0.0.0.0 supreme-speeds.com
 0.0.0.0 supremetorrents.co.uk
-0.0.0.0 surfshark.com Issue 161
 0.0.0.0 suteki-yume.net
 0.0.0.0 svartakatten.org
 0.0.0.0 swebits.org
@@ -2581,7 +2579,6 @@
 0.0.0.0 torrent.mp3quran.net
 0.0.0.0 torrent.neptunepinkfloyd.co.uk
 0.0.0.0 torrent.net13.ro
-0.0.0.0 torrent.nwps.w
 0.0.0.0 torrent.nwps.ws
 0.0.0.0 torrent.nz
 0.0.0.0 torrent.org.cn
@@ -2662,7 +2659,6 @@
 0.0.0.0 torrentfr.org
 0.0.0.0 torrentfrancais.com
 0.0.0.0 torrentfreak.com
-0.0.0.0 torrentfreak.com Issue 886
 0.0.0.0 torrentfreakz.org
 0.0.0.0 torrentfriend.net
 0.0.0.0 torrentfunk.com
@@ -5522,7 +5518,6 @@
 0.0.0.0 www.mazysmadhouse.net
 0.0.0.0 www.mazysnuthouse.org
 0.0.0.0 www.mb4t.info
-0.0.0.0 www.mc.yandex.ru Issue 156
 0.0.0.0 www.md-torrents.ruhome
 0.0.0.0 www.mdown.org
 0.0.0.0 www.medbit.ru
@@ -6363,7 +6358,6 @@
 0.0.0.0 www.supertorrents.org
 0.0.0.0 www.supreme-speeds.com
 0.0.0.0 www.supremetorrents.co.uk
-0.0.0.0 www.surfshark.com Issue 161
 0.0.0.0 www.suteki-yume.net
 0.0.0.0 www.svartakatten.org
 0.0.0.0 www.swebits.org
@@ -6618,7 +6612,6 @@
 0.0.0.0 www.torrent.mp3quran.net
 0.0.0.0 www.torrent.neptunepinkfloyd.co.uk
 0.0.0.0 www.torrent.net13.ro
-0.0.0.0 www.torrent.nwps.w
 0.0.0.0 www.torrent.nwps.ws
 0.0.0.0 www.torrent.nz
 0.0.0.0 www.torrent.org.cn
@@ -6699,7 +6692,6 @@
 0.0.0.0 www.torrentfr.org
 0.0.0.0 www.torrentfrancais.com
 0.0.0.0 www.torrentfreak.com
-0.0.0.0 www.torrentfreak.com Issue 886
 0.0.0.0 www.torrentfreakz.org
 0.0.0.0 www.torrentfriend.net
 0.0.0.0 www.torrentfunk.com
