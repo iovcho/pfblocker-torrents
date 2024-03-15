@@ -3485,6 +3485,7 @@
 0.0.0.0 bt.oiyo.tk
 0.0.0.0 bt.okmp3.ru
 0.0.0.0 bt.plc.mx
+0.0.0.0 bt.ptlsp.com
 0.0.0.0 bt.rer.lol
 0.0.0.0 bt.xcty.eu.org
 0.0.0.0 bt1.letpo.com
@@ -3775,6 +3776,7 @@
 0.0.0.0 torrents.artixlinux.org
 0.0.0.0 touhou.kawaiiarts.com
 0.0.0.0 tp.m-team.cc
+0.0.0.0 tr.aag.moe
 0.0.0.0 tr.abiir.top
 0.0.0.0 tr.abir.ga
 0.0.0.0 tr.abirxo.cf
@@ -7518,6 +7520,7 @@
 0.0.0.0 www.bt.oiyo.tk
 0.0.0.0 www.bt.okmp3.ru
 0.0.0.0 www.bt.plc.mx
+0.0.0.0 www.bt.ptlsp.com
 0.0.0.0 www.bt.rer.lol
 0.0.0.0 www.bt.xcty.eu.org
 0.0.0.0 www.bt1.letpo.com
@@ -7808,6 +7811,7 @@
 0.0.0.0 www.torrents.artixlinux.org
 0.0.0.0 www.touhou.kawaiiarts.com
 0.0.0.0 www.tp.m-team.cc
+0.0.0.0 www.tr.aag.moe
 0.0.0.0 www.tr.abiir.top
 0.0.0.0 www.tr.abir.ga
 0.0.0.0 www.tr.abirxo.cf
