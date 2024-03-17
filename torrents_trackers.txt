@@ -3747,6 +3747,7 @@
 0.0.0.0 t.btcland.xyz
 0.0.0.0 t.publictracker.xyz
 0.0.0.0 t.zerg.pw
+0.0.0.0 t1.aag.moe
 0.0.0.0 t1.chfs.ch
 0.0.0.0 t1.hloli.org
 0.0.0.0 t1.leech.ie
@@ -7783,6 +7784,7 @@
 0.0.0.0 www.t.btcland.xyz
 0.0.0.0 www.t.publictracker.xyz
 0.0.0.0 www.t.zerg.pw
+0.0.0.0 www.t1.aag.moe
 0.0.0.0 www.t1.chfs.ch
 0.0.0.0 www.t1.hloli.org
 0.0.0.0 www.t1.leech.ie
