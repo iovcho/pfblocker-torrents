@@ -3451,6 +3451,7 @@
 0.0.0.0 adt.adt-textile.ru
 0.0.0.0 aegir.sexy
 0.0.0.0 aez-srv.srv00.com
+0.0.0.0 amigacity.xyz
 0.0.0.0 anzix.net
 0.0.0.0 api.alarmasqueretaro.com
 0.0.0.0 api.bitumconference.ru
@@ -7489,6 +7490,7 @@
 0.0.0.0 www.adt.adt-textile.ru
 0.0.0.0 www.aegir.sexy
 0.0.0.0 www.aez-srv.srv00.com
+0.0.0.0 www.amigacity.xyz
 0.0.0.0 www.anzix.net
 0.0.0.0 www.api.alarmasqueretaro.com
 0.0.0.0 www.api.bitumconference.ru
