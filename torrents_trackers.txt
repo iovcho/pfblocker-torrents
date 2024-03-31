@@ -3664,6 +3664,7 @@
 0.0.0.0 open-v6.demonoid.ch
 0.0.0.0 open.4ever.tk
 0.0.0.0 open.8a.is
+0.0.0.0 open.demonoid.ch
 0.0.0.0 open.dstud.io
 0.0.0.0 open.free-tracker.ga
 0.0.0.0 open.publictracker.xyz
@@ -7705,6 +7706,7 @@
 0.0.0.0 www.open-v6.demonoid.ch
 0.0.0.0 www.open.4ever.tk
 0.0.0.0 www.open.8a.is
+0.0.0.0 www.open.demonoid.ch
 0.0.0.0 www.open.dstud.io
 0.0.0.0 www.open.free-tracker.ga
 0.0.0.0 www.open.publictracker.xyz
