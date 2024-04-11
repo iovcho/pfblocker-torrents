@@ -3989,6 +3989,7 @@
 0.0.0.0 tracker6.lelux.fi
 0.0.0.0 trackerb.jonaslsa.com
 0.0.0.0 trackers.mlsub.net
+0.0.0.0 trackers.ptlsp.com
 0.0.0.0 trackers.ydns.eu
 0.0.0.0 trackme.theom.nz
 0.0.0.0 transkaroo.joustasie.net
@@ -8033,6 +8034,7 @@
 0.0.0.0 www.tracker6.lelux.fi
 0.0.0.0 www.trackerb.jonaslsa.com
 0.0.0.0 www.trackers.mlsub.net
+0.0.0.0 www.trackers.ptlsp.com
 0.0.0.0 www.trackers.ydns.eu
 0.0.0.0 www.trackme.theom.nz
 0.0.0.0 www.transkaroo.joustasie.net
