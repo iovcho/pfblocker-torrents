@@ -3750,6 +3750,7 @@
 0.0.0.0 sx.xxtor.com
 0.0.0.0 t.133335.xyz
 0.0.0.0 t.btcland.xyz
+0.0.0.0 t.peer-exchange.download
 0.0.0.0 t.publictracker.xyz
 0.0.0.0 t.zerg.pw
 0.0.0.0 t1.aag.moe
@@ -3837,6 +3838,7 @@
 0.0.0.0 tracker.cubonegro.org
 0.0.0.0 tracker.cubonegro.xyz
 0.0.0.0 tracker.cyber-hub.net
+0.0.0.0 tracker.darkness.services
 0.0.0.0 tracker.ddunlimited.net
 0.0.0.0 tracker.dev-null.rocks
 0.0.0.0 tracker.dix.tf
@@ -7797,6 +7799,7 @@
 0.0.0.0 www.sx.xxtor.com
 0.0.0.0 www.t.133335.xyz
 0.0.0.0 www.t.btcland.xyz
+0.0.0.0 www.t.peer-exchange.download
 0.0.0.0 www.t.publictracker.xyz
 0.0.0.0 www.t.zerg.pw
 0.0.0.0 www.t1.aag.moe
@@ -7884,6 +7887,7 @@
 0.0.0.0 www.tracker.cubonegro.org
 0.0.0.0 www.tracker.cubonegro.xyz
 0.0.0.0 www.tracker.cyber-hub.net
+0.0.0.0 www.tracker.darkness.services
 0.0.0.0 www.tracker.ddunlimited.net
 0.0.0.0 www.tracker.dev-null.rocks
 0.0.0.0 www.tracker.dix.tf
