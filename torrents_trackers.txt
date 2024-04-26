@@ -4001,6 +4001,7 @@
 0.0.0.0 tsundere.pw
 0.0.0.0 ttk.pp.ua
 0.0.0.0 ttk2.nbaonlineservice.com
+0.0.0.0 ttr.croco.net
 0.0.0.0 u.peer-exchange.download
 0.0.0.0 u.wwwww.wtf
 0.0.0.0 u4.trakx.crim.ist
@@ -8050,6 +8051,7 @@
 0.0.0.0 www.tsundere.pw
 0.0.0.0 www.ttk.pp.ua
 0.0.0.0 www.ttk2.nbaonlineservice.com
+0.0.0.0 www.ttr.croco.net
 0.0.0.0 www.u.peer-exchange.download
 0.0.0.0 www.u.wwwww.wtf
 0.0.0.0 www.u4.trakx.crim.ist
