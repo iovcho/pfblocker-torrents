@@ -3840,6 +3840,7 @@
 0.0.0.0 tracker.cyber-hub.net
 0.0.0.0 tracker.darkness.services
 0.0.0.0 tracker.ddunlimited.net
+0.0.0.0 tracker.deadorbit.nl
 0.0.0.0 tracker.dev-null.rocks
 0.0.0.0 tracker.dix.tf
 0.0.0.0 tracker.dler.com
@@ -7890,6 +7891,7 @@
 0.0.0.0 www.tracker.cyber-hub.net
 0.0.0.0 www.tracker.darkness.services
 0.0.0.0 www.tracker.ddunlimited.net
+0.0.0.0 www.tracker.deadorbit.nl
 0.0.0.0 www.tracker.dev-null.rocks
 0.0.0.0 www.tracker.dix.tf
 0.0.0.0 www.tracker.dler.com
