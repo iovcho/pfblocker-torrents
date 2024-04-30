@@ -3622,6 +3622,7 @@
 0.0.0.0 lloria.fr
 0.0.0.0 ln.mtahost.co
 0.0.0.0 lopatins.ru
+0.0.0.0 lulz.vpndb.org
 0.0.0.0 luna.jae.su
 0.0.0.0 madiator.com
 0.0.0.0 mail.artixlinux.org
@@ -3889,6 +3890,7 @@
 0.0.0.0 tracker.k.vu
 0.0.0.0 tracker.kawaii.id
 0.0.0.0 tracker.leech.ie
+0.0.0.0 tracker.leena.network
 0.0.0.0 tracker.letpo.com
 0.0.0.0 tracker.lilithraws.cf
 0.0.0.0 tracker.lilithraws.org
@@ -7673,6 +7675,7 @@
 0.0.0.0 www.lloria.fr
 0.0.0.0 www.ln.mtahost.co
 0.0.0.0 www.lopatins.ru
+0.0.0.0 www.lulz.vpndb.org
 0.0.0.0 www.luna.jae.su
 0.0.0.0 www.madiator.com
 0.0.0.0 www.mail.artixlinux.org
@@ -7940,6 +7943,7 @@
 0.0.0.0 www.tracker.k.vu
 0.0.0.0 www.tracker.kawaii.id
 0.0.0.0 www.tracker.leech.ie
+0.0.0.0 www.tracker.leena.network
 0.0.0.0 www.tracker.letpo.com
 0.0.0.0 www.tracker.lilithraws.cf
 0.0.0.0 www.tracker.lilithraws.org
