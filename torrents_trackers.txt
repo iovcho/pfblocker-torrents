@@ -3455,6 +3455,7 @@
 0.0.0.0 anzix.net
 0.0.0.0 api.alarmasqueretaro.com
 0.0.0.0 api.bitumconference.ru
+0.0.0.0 api.boletera.org
 0.0.0.0 app.icon256.com
 0.0.0.0 appmeter.ru
 0.0.0.0 aruacfilmes.com.br
@@ -3802,6 +3803,7 @@
 0.0.0.0 tracker-cn.zhuqiy.eu.org
 0.0.0.0 tracker-udp.gbitt.info
 0.0.0.0 tracker-v6.zooki.xyz
+0.0.0.0 tracker-zhuqiy.dgj055.icu
 0.0.0.0 tracker.0o.is
 0.0.0.0 tracker.0x.tf
 0.0.0.0 tracker.0x7c0.com
@@ -7508,6 +7510,7 @@
 0.0.0.0 www.anzix.net
 0.0.0.0 www.api.alarmasqueretaro.com
 0.0.0.0 www.api.bitumconference.ru
+0.0.0.0 www.api.boletera.org
 0.0.0.0 www.app.icon256.com
 0.0.0.0 www.appmeter.ru
 0.0.0.0 www.aruacfilmes.com.br
@@ -7855,6 +7858,7 @@
 0.0.0.0 www.tracker-cn.zhuqiy.eu.org
 0.0.0.0 www.tracker-udp.gbitt.info
 0.0.0.0 www.tracker-v6.zooki.xyz
+0.0.0.0 www.tracker-zhuqiy.dgj055.icu
 0.0.0.0 www.tracker.0o.is
 0.0.0.0 www.tracker.0x.tf
 0.0.0.0 www.tracker.0x7c0.com
