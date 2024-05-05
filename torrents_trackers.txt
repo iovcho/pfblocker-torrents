@@ -3929,6 +3929,7 @@
 0.0.0.0 tracker.picotorrent.one
 0.0.0.0 tracker.pimpmyworld.to
 0.0.0.0 tracker.piratepublic.com
+0.0.0.0 tracker.pmman.tech
 0.0.0.0 tracker.privateseedbox.xyz
 0.0.0.0 tracker.publicbt.com
 0.0.0.0 tracker.publictracker.xyz
@@ -3966,6 +3967,7 @@
 0.0.0.0 tracker.tryhackx.org
 0.0.0.0 tracker.tvgc.win
 0.0.0.0 tracker.tvunderground.org.ru
+0.0.0.0 tracker.uraniumhexafluori.de
 0.0.0.0 tracker.v6speed.org
 0.0.0.0 tracker.vds.nz
 0.0.0.0 tracker.vectahosting.eu
@@ -7986,6 +7988,7 @@
 0.0.0.0 www.tracker.picotorrent.one
 0.0.0.0 www.tracker.pimpmyworld.to
 0.0.0.0 www.tracker.piratepublic.com
+0.0.0.0 www.tracker.pmman.tech
 0.0.0.0 www.tracker.privateseedbox.xyz
 0.0.0.0 www.tracker.publicbt.com
 0.0.0.0 www.tracker.publictracker.xyz
@@ -8023,6 +8026,7 @@
 0.0.0.0 www.tracker.tryhackx.org
 0.0.0.0 www.tracker.tvgc.win
 0.0.0.0 www.tracker.tvunderground.org.ru
+0.0.0.0 www.tracker.uraniumhexafluori.de
 0.0.0.0 www.tracker.v6speed.org
 0.0.0.0 www.tracker.vds.nz
 0.0.0.0 www.tracker.vectahosting.eu
