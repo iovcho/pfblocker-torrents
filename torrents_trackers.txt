@@ -3869,6 +3869,7 @@
 0.0.0.0 tracker.fnix.net
 0.0.0.0 tracker.foreverpirates.co
 0.0.0.0 tracker.fortu.io
+0.0.0.0 tracker.gcrenwp.top
 0.0.0.0 tracker.gcrreen.xyz
 0.0.0.0 tracker.grepler.com
 0.0.0.0 tracker.h0me.cc
@@ -7928,6 +7929,7 @@
 0.0.0.0 www.tracker.fnix.net
 0.0.0.0 www.tracker.foreverpirates.co
 0.0.0.0 www.tracker.fortu.io
+0.0.0.0 www.tracker.gcrenwp.top
 0.0.0.0 www.tracker.gcrreen.xyz
 0.0.0.0 www.tracker.grepler.com
 0.0.0.0 www.tracker.h0me.cc
