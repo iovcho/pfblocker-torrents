@@ -3852,6 +3852,7 @@
 0.0.0.0 tracker.dler.com
 0.0.0.0 tracker.dmhy.pw
 0.0.0.0 tracker.dnlab.net
+0.0.0.0 tracker.draatman.uk
 0.0.0.0 tracker.dump.cl
 0.0.0.0 tracker.dyne.org
 0.0.0.0 tracker.e-utp.net
@@ -7915,6 +7916,7 @@
 0.0.0.0 www.tracker.dler.com
 0.0.0.0 www.tracker.dmhy.pw
 0.0.0.0 www.tracker.dnlab.net
+0.0.0.0 www.tracker.draatman.uk
 0.0.0.0 www.tracker.dump.cl
 0.0.0.0 www.tracker.dyne.org
 0.0.0.0 www.tracker.e-utp.net
