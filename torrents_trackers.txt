@@ -3778,6 +3778,8 @@
 0.0.0.0 tk.nvacg.org
 0.0.0.0 tk1.trackerservers.com
 0.0.0.0 tk1v6.trackerservers.com
+0.0.0.0 tk2.trackerservers.com
+0.0.0.0 tk2v6.trackerservers.com
 0.0.0.0 tor.rev.pm
 0.0.0.0 torrent-tracker.hama3.net
 0.0.0.0 torrent.hificode.in
@@ -7843,6 +7845,8 @@
 0.0.0.0 www.tk.nvacg.org
 0.0.0.0 www.tk1.trackerservers.com
 0.0.0.0 www.tk1v6.trackerservers.com
+0.0.0.0 www.tk2.trackerservers.com
+0.0.0.0 www.tk2v6.trackerservers.com
 0.0.0.0 www.tor.rev.pm
 0.0.0.0 www.torrent-tracker.hama3.net
 0.0.0.0 www.torrent.hificode.in
