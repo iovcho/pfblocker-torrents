@@ -3877,6 +3877,7 @@
 0.0.0.0 tracker.fortu.io
 0.0.0.0 tracker.gcrenwp.top
 0.0.0.0 tracker.gcrreen.xyz
+0.0.0.0 tracker.gmi.gd
 0.0.0.0 tracker.grepler.com
 0.0.0.0 tracker.h0me.cc
 0.0.0.0 tracker.h3o2.me
@@ -3912,6 +3913,7 @@
 0.0.0.0 tracker.m-team.cc
 0.0.0.0 tracker.madassnews.net
 0.0.0.0 tracker.merded.xyz
+0.0.0.0 tracker.midnightprogrammer.net
 0.0.0.0 tracker.mirrorbay.org
 0.0.0.0 tracker.mlsub.net
 0.0.0.0 tracker.moeblog.cn
@@ -7944,6 +7946,7 @@
 0.0.0.0 www.tracker.fortu.io
 0.0.0.0 www.tracker.gcrenwp.top
 0.0.0.0 www.tracker.gcrreen.xyz
+0.0.0.0 www.tracker.gmi.gd
 0.0.0.0 www.tracker.grepler.com
 0.0.0.0 www.tracker.h0me.cc
 0.0.0.0 www.tracker.h3o2.me
@@ -7979,6 +7982,7 @@
 0.0.0.0 www.tracker.m-team.cc
 0.0.0.0 www.tracker.madassnews.net
 0.0.0.0 www.tracker.merded.xyz
+0.0.0.0 www.tracker.midnightprogrammer.net
 0.0.0.0 www.tracker.mirrorbay.org
 0.0.0.0 www.tracker.mlsub.net
 0.0.0.0 www.tracker.moeblog.cn
