@@ -3704,6 +3704,7 @@
 0.0.0.0 publictracker.xyz
 0.0.0.0 puresynergy.com
 0.0.0.0 pxnet.ru
+0.0.0.0 pybittrack.retiolus.net
 0.0.0.0 qtstm32fan.ru
 0.0.0.0 r.l5.ca
 0.0.0.0 ransan.tk
@@ -7773,6 +7774,7 @@
 0.0.0.0 www.publictracker.xyz
 0.0.0.0 www.puresynergy.com
 0.0.0.0 www.pxnet.ru
+0.0.0.0 www.pybittrack.retiolus.net
 0.0.0.0 www.qtstm32fan.ru
 0.0.0.0 www.r.l5.ca
 0.0.0.0 www.ransan.tk
