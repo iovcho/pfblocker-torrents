@@ -3772,6 +3772,7 @@
 0.0.0.0 thinking.duckdns.org
 0.0.0.0 thitgaluoc.dynu.net
 0.0.0.0 thouvenin.cloud
+0.0.0.0 threads.canofsocks.com
 0.0.0.0 thug.rocks
 0.0.0.0 tinfoil.space
 0.0.0.0 tk.greedland.net
@@ -7843,6 +7844,7 @@
 0.0.0.0 www.thinking.duckdns.org
 0.0.0.0 www.thitgaluoc.dynu.net
 0.0.0.0 www.thouvenin.cloud
+0.0.0.0 www.threads.canofsocks.com
 0.0.0.0 www.thug.rocks
 0.0.0.0 www.tinfoil.space
 0.0.0.0 www.tk.greedland.net
