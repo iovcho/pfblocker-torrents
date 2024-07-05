@@ -3987,6 +3987,7 @@
 0.0.0.0 tracker.vrpnet.org
 0.0.0.0 tracker.vulnix.sh
 0.0.0.0 tracker.wellknownclub.net
+0.0.0.0 tracker.xor.st
 0.0.0.0 tracker.yangxiaoguozi.cn
 0.0.0.0 tracker.yarr.pt
 0.0.0.0 tracker.yemekyedim.com
@@ -8059,6 +8060,7 @@
 0.0.0.0 www.tracker.vrpnet.org
 0.0.0.0 www.tracker.vulnix.sh
 0.0.0.0 www.tracker.wellknownclub.net
+0.0.0.0 www.tracker.xor.st
 0.0.0.0 www.tracker.yangxiaoguozi.cn
 0.0.0.0 www.tracker.yarr.pt
 0.0.0.0 www.tracker.yemekyedim.com
