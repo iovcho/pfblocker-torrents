@@ -3720,7 +3720,9 @@
 0.0.0.0 retracker.local.msn-net.ru
 0.0.0.0 retracker.nts.su
 0.0.0.0 retracker.seven-sky.net
+0.0.0.0 retracker.x2k.ru
 0.0.0.0 retracker01-msk-virt.corbina.net
+0.0.0.0 retracker2.x2k.ru
 0.0.0.0 rfc5746.mywaifu.best
 0.0.0.0 rt.optizone.ru
 0.0.0.0 run-2.publictracker.xyz
@@ -7798,7 +7800,9 @@
 0.0.0.0 www.retracker.local.msn-net.ru
 0.0.0.0 www.retracker.nts.su
 0.0.0.0 www.retracker.seven-sky.net
+0.0.0.0 www.retracker.x2k.ru
 0.0.0.0 www.retracker01-msk-virt.corbina.net
+0.0.0.0 www.retracker2.x2k.ru
 0.0.0.0 www.rfc5746.mywaifu.best
 0.0.0.0 www.rt.optizone.ru
 0.0.0.0 www.run-2.publictracker.xyz
