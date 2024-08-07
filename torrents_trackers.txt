@@ -3473,6 +3473,7 @@
 0.0.0.0 bitsparadise.info
 0.0.0.0 bittorrent-tracker.e-n-c-r-y-p-t.net
 0.0.0.0 bittorrent.gongt.net
+0.0.0.0 bittorrent.service.gongt.me
 0.0.0.0 bjlt.zhuqiy.eu.org
 0.0.0.0 black-bird.ynh.fr
 0.0.0.0 blokas.io
@@ -7553,6 +7554,7 @@
 0.0.0.0 www.bitsparadise.info
 0.0.0.0 www.bittorrent-tracker.e-n-c-r-y-p-t.net
 0.0.0.0 www.bittorrent.gongt.net
+0.0.0.0 www.bittorrent.service.gongt.me
 0.0.0.0 www.bjlt.zhuqiy.eu.org
 0.0.0.0 www.black-bird.ynh.fr
 0.0.0.0 www.blokas.io
