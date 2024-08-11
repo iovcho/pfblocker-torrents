@@ -3791,6 +3791,7 @@
 0.0.0.0 torrent.hificode.in
 0.0.0.0 torrent.skynetcenter.me
 0.0.0.0 torrent.tdjs.tech
+0.0.0.0 torrent.tracker.durukanbal.com
 0.0.0.0 torrentclub.space
 0.0.0.0 torrents.artixlinux.org
 0.0.0.0 torrust.canofsocks.com
@@ -7872,6 +7873,7 @@
 0.0.0.0 www.torrent.hificode.in
 0.0.0.0 www.torrent.skynetcenter.me
 0.0.0.0 www.torrent.tdjs.tech
+0.0.0.0 www.torrent.tracker.durukanbal.com
 0.0.0.0 www.torrentclub.space
 0.0.0.0 www.torrents.artixlinux.org
 0.0.0.0 www.torrust.canofsocks.com
