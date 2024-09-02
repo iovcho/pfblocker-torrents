@@ -3525,6 +3525,7 @@
 0.0.0.0 cutiegirl.ru
 0.0.0.0 cutscloud.duckdns.org
 0.0.0.0 d40969.acod.regrucolo.ru
+0.0.0.0 dataforai.com
 0.0.0.0 daveking.com
 0.0.0.0 davidkirkevans.com
 0.0.0.0 debuz.com
@@ -7609,6 +7610,7 @@
 0.0.0.0 www.cutiegirl.ru
 0.0.0.0 www.cutscloud.duckdns.org
 0.0.0.0 www.d40969.acod.regrucolo.ru
+0.0.0.0 www.dataforai.com
 0.0.0.0 www.daveking.com
 0.0.0.0 www.davidkirkevans.com
 0.0.0.0 www.debuz.com
