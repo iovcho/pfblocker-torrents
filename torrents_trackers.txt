@@ -3636,6 +3636,7 @@
 0.0.0.0 mail.zasaonsk.ga
 0.0.0.0 market-re.quest
 0.0.0.0 martin-gebhardt.eu
+0.0.0.0 mc.itscraftsoftware.my.id
 0.0.0.0 mgtracker.org
 0.0.0.0 mikrotik2.draatman.net
 0.0.0.0 milanesitracker.tekcities.com
@@ -3904,6 +3905,7 @@
 0.0.0.0 tracker.ipv6tracker.org
 0.0.0.0 tracker.iriseden.fr
 0.0.0.0 tracker.iro.moe
+0.0.0.0 tracker.itscraftsoftware.my.id
 0.0.0.0 tracker.jamesthebard.net
 0.0.0.0 tracker.jdx3.org
 0.0.0.0 tracker.jiesen.life
@@ -7721,6 +7723,7 @@
 0.0.0.0 www.mail.zasaonsk.ga
 0.0.0.0 www.market-re.quest
 0.0.0.0 www.martin-gebhardt.eu
+0.0.0.0 www.mc.itscraftsoftware.my.id
 0.0.0.0 www.mgtracker.org
 0.0.0.0 www.mikrotik2.draatman.net
 0.0.0.0 www.milanesitracker.tekcities.com
@@ -7989,6 +7992,7 @@
 0.0.0.0 www.tracker.ipv6tracker.org
 0.0.0.0 www.tracker.iriseden.fr
 0.0.0.0 www.tracker.iro.moe
+0.0.0.0 www.tracker.itscraftsoftware.my.id
 0.0.0.0 www.tracker.jamesthebard.net
 0.0.0.0 www.tracker.jdx3.org
 0.0.0.0 www.tracker.jiesen.life
