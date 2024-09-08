@@ -3607,6 +3607,7 @@
 0.0.0.0 jp.moeweb.pw
 0.0.0.0 jsb.by
 0.0.0.0 jutone.com
+0.0.0.0 jvavav.com
 0.0.0.0 k.avc.cx
 0.0.0.0 k1.com.br
 0.0.0.0 kanal-4.de
@@ -7694,6 +7695,7 @@
 0.0.0.0 www.jp.moeweb.pw
 0.0.0.0 www.jsb.by
 0.0.0.0 www.jutone.com
+0.0.0.0 www.jvavav.com
 0.0.0.0 www.k.avc.cx
 0.0.0.0 www.k1.com.br
 0.0.0.0 www.kanal-4.de
