@@ -3814,6 +3814,7 @@
 0.0.0.0 tr.torland.ga
 0.0.0.0 tr2.cubonegro.lol
 0.0.0.0 tr2.ysagin.top
+0.0.0.0 tr4ck3r.duckdns.org
 0.0.0.0 track.plop.pm
 0.0.0.0 track3r.site
 0.0.0.0 trackarr.org
@@ -7902,6 +7903,7 @@
 0.0.0.0 www.tr.torland.ga
 0.0.0.0 www.tr2.cubonegro.lol
 0.0.0.0 www.tr2.ysagin.top
+0.0.0.0 www.tr4ck3r.duckdns.org
 0.0.0.0 www.track.plop.pm
 0.0.0.0 www.track3r.site
 0.0.0.0 www.trackarr.org
