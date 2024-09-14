@@ -3524,6 +3524,7 @@
 0.0.0.0 creative.7o7.cx
 0.0.0.0 cutiegirl.ru
 0.0.0.0 cutscloud.duckdns.org
+0.0.0.0 d13bttrck.duckdns.org
 0.0.0.0 d40969.acod.regrucolo.ru
 0.0.0.0 dataforai.com
 0.0.0.0 daveking.com
@@ -7613,6 +7614,7 @@
 0.0.0.0 www.creative.7o7.cx
 0.0.0.0 www.cutiegirl.ru
 0.0.0.0 www.cutscloud.duckdns.org
+0.0.0.0 www.d13bttrck.duckdns.org
 0.0.0.0 www.d40969.acod.regrucolo.ru
 0.0.0.0 www.dataforai.com
 0.0.0.0 www.daveking.com
