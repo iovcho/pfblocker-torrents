@@ -3638,6 +3638,7 @@
 0.0.0.0 mail.zasaonsk.ga
 0.0.0.0 market-re.quest
 0.0.0.0 martin-gebhardt.eu
+0.0.0.0 mathkangaroo.jp
 0.0.0.0 mc.itscraftsoftware.my.id
 0.0.0.0 mgtracker.org
 0.0.0.0 mikrotik2.draatman.net
@@ -3848,6 +3849,7 @@
 0.0.0.0 tracker.bitsearch.to
 0.0.0.0 tracker.bittorrent.am
 0.0.0.0 tracker.bittorrent.nibblepoker.lu
+0.0.0.0 tracker.bjut.jp
 0.0.0.0 tracker.blacksparrowmedia.net
 0.0.0.0 tracker.breizh.pm
 0.0.0.0 tracker.btnext.com
@@ -3896,6 +3898,7 @@
 0.0.0.0 tracker.gcrreen.xyz
 0.0.0.0 tracker.gmi.gd
 0.0.0.0 tracker.grepler.com
+0.0.0.0 tracker.guguan.000.pe
 0.0.0.0 tracker.h0me.cc
 0.0.0.0 tracker.h3o2.me
 0.0.0.0 tracker.halfchub.club
@@ -4002,6 +4005,7 @@
 0.0.0.0 tracker.vraphim.com
 0.0.0.0 tracker.vrpnet.org
 0.0.0.0 tracker.vulnix.sh
+0.0.0.0 tracker.waaa.moe
 0.0.0.0 tracker.wellknownclub.net
 0.0.0.0 tracker.xor.st
 0.0.0.0 tracker.yangxiaoguozi.cn
@@ -7729,6 +7733,7 @@
 0.0.0.0 www.mail.zasaonsk.ga
 0.0.0.0 www.market-re.quest
 0.0.0.0 www.martin-gebhardt.eu
+0.0.0.0 www.mathkangaroo.jp
 0.0.0.0 www.mc.itscraftsoftware.my.id
 0.0.0.0 www.mgtracker.org
 0.0.0.0 www.mikrotik2.draatman.net
@@ -7939,6 +7944,7 @@
 0.0.0.0 www.tracker.bitsearch.to
 0.0.0.0 www.tracker.bittorrent.am
 0.0.0.0 www.tracker.bittorrent.nibblepoker.lu
+0.0.0.0 www.tracker.bjut.jp
 0.0.0.0 www.tracker.blacksparrowmedia.net
 0.0.0.0 www.tracker.breizh.pm
 0.0.0.0 www.tracker.btnext.com
@@ -7987,6 +7993,7 @@
 0.0.0.0 www.tracker.gcrreen.xyz
 0.0.0.0 www.tracker.gmi.gd
 0.0.0.0 www.tracker.grepler.com
+0.0.0.0 www.tracker.guguan.000.pe
 0.0.0.0 www.tracker.h0me.cc
 0.0.0.0 www.tracker.h3o2.me
 0.0.0.0 www.tracker.halfchub.club
@@ -8093,6 +8100,7 @@
 0.0.0.0 www.tracker.vraphim.com
 0.0.0.0 www.tracker.vrpnet.org
 0.0.0.0 www.tracker.vulnix.sh
+0.0.0.0 www.tracker.waaa.moe
 0.0.0.0 www.tracker.wellknownclub.net
 0.0.0.0 www.tracker.xor.st
 0.0.0.0 www.tracker.yangxiaoguozi.cn
