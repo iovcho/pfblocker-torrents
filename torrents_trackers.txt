@@ -3830,6 +3830,7 @@
 0.0.0.0 tracker.0o.is
 0.0.0.0 tracker.0x.tf
 0.0.0.0 tracker.0x7c0.com
+0.0.0.0 tracker.1048576.cn
 0.0.0.0 tracker.3304399.com
 0.0.0.0 tracker.3moredays.com
 0.0.0.0 tracker.4.babico.name.tr
@@ -3922,6 +3923,7 @@
 0.0.0.0 tracker.joybomb.tw
 0.0.0.0 tracker.k.vu
 0.0.0.0 tracker.kawaii.id
+0.0.0.0 tracker.kmzs123.cn
 0.0.0.0 tracker.kmzs123.com
 0.0.0.0 tracker.kmzs123.top
 0.0.0.0 tracker.leech.ie
@@ -7928,6 +7930,7 @@
 0.0.0.0 www.tracker.0o.is
 0.0.0.0 www.tracker.0x.tf
 0.0.0.0 www.tracker.0x7c0.com
+0.0.0.0 www.tracker.1048576.cn
 0.0.0.0 www.tracker.3304399.com
 0.0.0.0 www.tracker.3moredays.com
 0.0.0.0 www.tracker.4.babico.name.tr
@@ -8020,6 +8023,7 @@
 0.0.0.0 www.tracker.joybomb.tw
 0.0.0.0 www.tracker.k.vu
 0.0.0.0 www.tracker.kawaii.id
+0.0.0.0 www.tracker.kmzs123.cn
 0.0.0.0 www.tracker.kmzs123.com
 0.0.0.0 www.tracker.kmzs123.top
 0.0.0.0 www.tracker.leech.ie
