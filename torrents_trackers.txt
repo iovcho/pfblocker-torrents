@@ -3926,6 +3926,7 @@
 0.0.0.0 tracker.kmzs123.cf
 0.0.0.0 tracker.kmzs123.cn
 0.0.0.0 tracker.kmzs123.com
+0.0.0.0 tracker.kmzs123.tk
 0.0.0.0 tracker.kmzs123.top
 0.0.0.0 tracker.leech.ie
 0.0.0.0 tracker.leena.network
@@ -8027,6 +8028,7 @@
 0.0.0.0 www.tracker.kmzs123.cf
 0.0.0.0 www.tracker.kmzs123.cn
 0.0.0.0 www.tracker.kmzs123.com
+0.0.0.0 www.tracker.kmzs123.tk
 0.0.0.0 www.tracker.kmzs123.top
 0.0.0.0 www.tracker.leech.ie
 0.0.0.0 www.tracker.leena.network
