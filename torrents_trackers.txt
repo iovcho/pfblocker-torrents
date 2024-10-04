@@ -3860,6 +3860,7 @@
 0.0.0.0 tracker.bulao.ren
 0.0.0.0 tracker.cangku.moe
 0.0.0.0 tracker.ccp.ovh
+0.0.0.0 tracker.cloaka.xyz
 0.0.0.0 tracker.cloudit.top
 0.0.0.0 tracker.computel.fr
 0.0.0.0 tracker.coppersurfer.site
@@ -7965,6 +7966,7 @@
 0.0.0.0 www.tracker.bulao.ren
 0.0.0.0 www.tracker.cangku.moe
 0.0.0.0 www.tracker.ccp.ovh
+0.0.0.0 www.tracker.cloaka.xyz
 0.0.0.0 www.tracker.cloudit.top
 0.0.0.0 www.tracker.computel.fr
 0.0.0.0 www.tracker.coppersurfer.site
