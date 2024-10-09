@@ -3754,6 +3754,7 @@
 0.0.0.0 socket.onvo.me
 0.0.0.0 soundmovie.ru
 0.0.0.0 soysta-fr1.dev.sercomkc.org
+0.0.0.0 sparkle.ghostchu-services.top
 0.0.0.0 srv5.digiboy.ir
 0.0.0.0 ssb14.nohost.me
 0.0.0.0 stargrave.org
@@ -7860,6 +7861,7 @@
 0.0.0.0 www.socket.onvo.me
 0.0.0.0 www.soundmovie.ru
 0.0.0.0 www.soysta-fr1.dev.sercomkc.org
+0.0.0.0 www.sparkle.ghostchu-services.top
 0.0.0.0 www.srv5.digiboy.ir
 0.0.0.0 www.ssb14.nohost.me
 0.0.0.0 www.stargrave.org
