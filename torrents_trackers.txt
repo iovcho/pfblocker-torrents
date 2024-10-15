@@ -3692,6 +3692,7 @@
 0.0.0.0 opentracker.xyz
 0.0.0.0 openwrt.lingyurouqing.xyz
 0.0.0.0 p2p.0g.cx
+0.0.0.0 p2p.azu.red
 0.0.0.0 p2p.publictracker.xyz
 0.0.0.0 p5796a22a.dip0.t-ipconnect.de
 0.0.0.0 parag.rs
@@ -7800,6 +7801,7 @@
 0.0.0.0 www.opentracker.xyz
 0.0.0.0 www.openwrt.lingyurouqing.xyz
 0.0.0.0 www.p2p.0g.cx
+0.0.0.0 www.p2p.azu.red
 0.0.0.0 www.p2p.publictracker.xyz
 0.0.0.0 www.p5796a22a.dip0.t-ipconnect.de
 0.0.0.0 www.parag.rs
