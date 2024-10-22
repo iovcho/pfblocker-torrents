@@ -3823,6 +3823,7 @@
 0.0.0.0 tr2.cubonegro.lol
 0.0.0.0 tr2.trkb.ru
 0.0.0.0 tr2.ysagin.top
+0.0.0.0 tr3.ysagin.top
 0.0.0.0 tr4ck3r.duckdns.org
 0.0.0.0 track.plop.pm
 0.0.0.0 track3r.site
@@ -3925,6 +3926,7 @@
 0.0.0.0 tracker.jamesthebard.net
 0.0.0.0 tracker.jdx3.org
 0.0.0.0 tracker.jiesen.life
+0.0.0.0 tracker.jobser.eu
 0.0.0.0 tracker.jonaslsa.com
 0.0.0.0 tracker.jordan.im
 0.0.0.0 tracker.joybomb.tw
@@ -7932,6 +7934,7 @@
 0.0.0.0 www.tr2.cubonegro.lol
 0.0.0.0 www.tr2.trkb.ru
 0.0.0.0 www.tr2.ysagin.top
+0.0.0.0 www.tr3.ysagin.top
 0.0.0.0 www.tr4ck3r.duckdns.org
 0.0.0.0 www.track.plop.pm
 0.0.0.0 www.track3r.site
@@ -8034,6 +8037,7 @@
 0.0.0.0 www.tracker.jamesthebard.net
 0.0.0.0 www.tracker.jdx3.org
 0.0.0.0 www.tracker.jiesen.life
+0.0.0.0 www.tracker.jobser.eu
 0.0.0.0 www.tracker.jonaslsa.com
 0.0.0.0 www.tracker.jordan.im
 0.0.0.0 www.tracker.joybomb.tw
