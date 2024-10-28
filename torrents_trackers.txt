@@ -3615,6 +3615,7 @@
 0.0.0.0 k1.com.br
 0.0.0.0 kanal-4.de
 0.0.0.0 keke.re
+0.0.0.0 kiryuu-test.mywaifu.best
 0.0.0.0 kokodayo.site
 0.0.0.0 koli.services
 0.0.0.0 kristof.bartanet.cz
@@ -7726,6 +7727,7 @@
 0.0.0.0 www.k1.com.br
 0.0.0.0 www.kanal-4.de
 0.0.0.0 www.keke.re
+0.0.0.0 www.kiryuu-test.mywaifu.best
 0.0.0.0 www.kokodayo.site
 0.0.0.0 www.koli.services
 0.0.0.0 www.kristof.bartanet.cz
