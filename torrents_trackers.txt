@@ -3605,6 +3605,7 @@
 0.0.0.0 ipv6.tracker.monitorit4.me
 0.0.0.0 ipv6.tracker.zerobytes.xyz
 0.0.0.0 isk.richardsw.club
+0.0.0.0 ismaarino.com
 0.0.0.0 itera.bz
 0.0.0.0 jeremylee.sh
 0.0.0.0 jp.moeweb.pw
@@ -3740,6 +3741,7 @@
 0.0.0.0 rutorrent.frontline-mod.com
 0.0.0.0 ryjer.com
 0.0.0.0 sabross.xyz
+0.0.0.0 saltwood.top
 0.0.0.0 sanincode.com
 0.0.0.0 sd-161673.dedibox.fr
 0.0.0.0 seedpeer.net
@@ -7717,6 +7719,7 @@
 0.0.0.0 www.ipv6.tracker.monitorit4.me
 0.0.0.0 www.ipv6.tracker.zerobytes.xyz
 0.0.0.0 www.isk.richardsw.club
+0.0.0.0 www.ismaarino.com
 0.0.0.0 www.itera.bz
 0.0.0.0 www.jeremylee.sh
 0.0.0.0 www.jp.moeweb.pw
@@ -7852,6 +7855,7 @@
 0.0.0.0 www.rutorrent.frontline-mod.com
 0.0.0.0 www.ryjer.com
 0.0.0.0 www.sabross.xyz
+0.0.0.0 www.saltwood.top
 0.0.0.0 www.sanincode.com
 0.0.0.0 www.sd-161673.dedibox.fr
 0.0.0.0 www.seedpeer.net
