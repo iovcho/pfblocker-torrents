@@ -3417,7 +3417,9 @@
 0.0.0.0 ztracker.hu
 0.0.0.0 00.alarmasqueretaro.com
 0.0.0.0 00.xxtor.com
+0.0.0.0 0123456789nonexistent.com
 0.0.0.0 0205.uptm.ch
+0.0.0.0 0d.kebhana.mx
 0.0.0.0 1.tracker.eu.org
 0.0.0.0 107.182.30.76.16clouds.com
 0.0.0.0 107.189.10.20.sslip.io
@@ -3492,10 +3494,12 @@
 0.0.0.0 bt.oiyo.tk
 0.0.0.0 bt.okmp3.ru
 0.0.0.0 bt.plc.mx
+0.0.0.0 bt.poletracker.org
 0.0.0.0 bt.ptlsp.com
 0.0.0.0 bt.rer.lol
 0.0.0.0 bt.xcty.eu.org
 0.0.0.0 bt1.letpo.com
+0.0.0.0 bt1.xxxxbt.cc
 0.0.0.0 btracker.top
 0.0.0.0 btt.service.gongt.me
 0.0.0.0 bttracker.sylphix.com
@@ -3580,6 +3584,7 @@
 0.0.0.0 h3o2.me
 0.0.0.0 h85-235-17-132.cust.a3fiber.se
 0.0.0.0 hcbt.pp.ua
+0.0.0.0 highteahop.top
 0.0.0.0 home.kray.pw
 0.0.0.0 home.yxgz.club
 0.0.0.0 home.yxgz.vip
@@ -3684,6 +3689,7 @@
 0.0.0.0 open.publictracker.xyz
 0.0.0.0 open.tracker.cl
 0.0.0.0 open.tracker.ink
+0.0.0.0 open.trackerlist.xyz
 0.0.0.0 open.u-p.pw
 0.0.0.0 open.va.wiki
 0.0.0.0 open.xxtor.com
@@ -3744,10 +3750,13 @@
 0.0.0.0 saltwood.top
 0.0.0.0 sanincode.com
 0.0.0.0 sd-161673.dedibox.fr
+0.0.0.0 seeders-paradise.org
 0.0.0.0 seedpeer.net
 0.0.0.0 serpb.vpsburti.com
+0.0.0.0 servandroidkino.ru
 0.0.0.0 shadowshq.eddie4.nl
 0.0.0.0 shahidrazi.online
+0.0.0.0 share.hkg-fansub.info
 0.0.0.0 shizzle.hammetjus.nl
 0.0.0.0 shogiroom.com
 0.0.0.0 shubt.net
@@ -3819,6 +3828,7 @@
 0.0.0.0 tr.doogh.club
 0.0.0.0 tr.fuckbitcoin.xyz
 0.0.0.0 tr.highstar.shop
+0.0.0.0 tr.nyacat.pw
 0.0.0.0 tr.qfruiti.com
 0.0.0.0 tr.qfruiti.in
 0.0.0.0 tr.torland.ga
@@ -3884,6 +3894,7 @@
 0.0.0.0 tracker.dev-null.rocks
 0.0.0.0 tracker.dix.tf
 0.0.0.0 tracker.dler.com
+0.0.0.0 tracker.dmcomic.org
 0.0.0.0 tracker.dmhy.pw
 0.0.0.0 tracker.dnlab.net
 0.0.0.0 tracker.draatman.uk
@@ -3941,10 +3952,12 @@
 0.0.0.0 tracker.kmzs123.tk
 0.0.0.0 tracker.kmzs123.top
 0.0.0.0 tracker.leech.ie
+0.0.0.0 tracker.leechshield.link
 0.0.0.0 tracker.leena.network
 0.0.0.0 tracker.letpo.com
 0.0.0.0 tracker.lilithraws.cf
 0.0.0.0 tracker.lilithraws.org
+0.0.0.0 tracker.lintk.me
 0.0.0.0 tracker.loadbt.com
 0.0.0.0 tracker.logirl.moe
 0.0.0.0 tracker.loli.co.nz
@@ -4019,6 +4032,7 @@
 0.0.0.0 tracker.tvunderground.org.ru
 0.0.0.0 tracker.uraniumhexafluori.de
 0.0.0.0 tracker.v6speed.org
+0.0.0.0 tracker.vanitycore.co
 0.0.0.0 tracker.vds.nz
 0.0.0.0 tracker.vectahosting.eu
 0.0.0.0 tracker.vraphim.com
@@ -4026,6 +4040,7 @@
 0.0.0.0 tracker.vulnix.sh
 0.0.0.0 tracker.waaa.moe
 0.0.0.0 tracker.wellknownclub.net
+0.0.0.0 tracker.xiaoduola.xyz
 0.0.0.0 tracker.xor.st
 0.0.0.0 tracker.yangxiaoguozi.cn
 0.0.0.0 tracker.yarr.pt
@@ -4051,6 +4066,7 @@
 0.0.0.0 tracker3.520.jp
 0.0.0.0 tracker3.ctix.cn
 0.0.0.0 tracker3.t-1.org
+0.0.0.0 tracker4.leechshield.link
 0.0.0.0 tracker6.dler.org
 0.0.0.0 tracker6.lelux.fi
 0.0.0.0 trackerb.jonaslsa.com
@@ -7531,7 +7547,9 @@
 0.0.0.0 www.ztracker.hu
 0.0.0.0 www.00.alarmasqueretaro.com
 0.0.0.0 www.00.xxtor.com
+0.0.0.0 www.0123456789nonexistent.com
 0.0.0.0 www.0205.uptm.ch
+0.0.0.0 www.0d.kebhana.mx
 0.0.0.0 www.1.tracker.eu.org
 0.0.0.0 www.107.182.30.76.16clouds.com
 0.0.0.0 www.107.189.10.20.sslip.io
@@ -7606,10 +7624,12 @@
 0.0.0.0 www.bt.oiyo.tk
 0.0.0.0 www.bt.okmp3.ru
 0.0.0.0 www.bt.plc.mx
+0.0.0.0 www.bt.poletracker.org
 0.0.0.0 www.bt.ptlsp.com
 0.0.0.0 www.bt.rer.lol
 0.0.0.0 www.bt.xcty.eu.org
 0.0.0.0 www.bt1.letpo.com
+0.0.0.0 www.bt1.xxxxbt.cc
 0.0.0.0 www.btracker.top
 0.0.0.0 www.btt.service.gongt.me
 0.0.0.0 www.bttracker.sylphix.com
@@ -7694,6 +7714,7 @@
 0.0.0.0 www.h3o2.me
 0.0.0.0 www.h85-235-17-132.cust.a3fiber.se
 0.0.0.0 www.hcbt.pp.ua
+0.0.0.0 www.highteahop.top
 0.0.0.0 www.home.kray.pw
 0.0.0.0 www.home.yxgz.club
 0.0.0.0 www.home.yxgz.vip
@@ -7798,6 +7819,7 @@
 0.0.0.0 www.open.publictracker.xyz
 0.0.0.0 www.open.tracker.cl
 0.0.0.0 www.open.tracker.ink
+0.0.0.0 www.open.trackerlist.xyz
 0.0.0.0 www.open.u-p.pw
 0.0.0.0 www.open.va.wiki
 0.0.0.0 www.open.xxtor.com
@@ -7858,10 +7880,13 @@
 0.0.0.0 www.saltwood.top
 0.0.0.0 www.sanincode.com
 0.0.0.0 www.sd-161673.dedibox.fr
+0.0.0.0 www.seeders-paradise.org
 0.0.0.0 www.seedpeer.net
 0.0.0.0 www.serpb.vpsburti.com
+0.0.0.0 www.servandroidkino.ru
 0.0.0.0 www.shadowshq.eddie4.nl
 0.0.0.0 www.shahidrazi.online
+0.0.0.0 www.share.hkg-fansub.info
 0.0.0.0 www.shizzle.hammetjus.nl
 0.0.0.0 www.shogiroom.com
 0.0.0.0 www.shubt.net
@@ -7933,6 +7958,7 @@
 0.0.0.0 www.tr.doogh.club
 0.0.0.0 www.tr.fuckbitcoin.xyz
 0.0.0.0 www.tr.highstar.shop
+0.0.0.0 www.tr.nyacat.pw
 0.0.0.0 www.tr.qfruiti.com
 0.0.0.0 www.tr.qfruiti.in
 0.0.0.0 www.tr.torland.ga
@@ -7998,6 +8024,7 @@
 0.0.0.0 www.tracker.dev-null.rocks
 0.0.0.0 www.tracker.dix.tf
 0.0.0.0 www.tracker.dler.com
+0.0.0.0 www.tracker.dmcomic.org
 0.0.0.0 www.tracker.dmhy.pw
 0.0.0.0 www.tracker.dnlab.net
 0.0.0.0 www.tracker.draatman.uk
@@ -8055,10 +8082,12 @@
 0.0.0.0 www.tracker.kmzs123.tk
 0.0.0.0 www.tracker.kmzs123.top
 0.0.0.0 www.tracker.leech.ie
+0.0.0.0 www.tracker.leechshield.link
 0.0.0.0 www.tracker.leena.network
 0.0.0.0 www.tracker.letpo.com
 0.0.0.0 www.tracker.lilithraws.cf
 0.0.0.0 www.tracker.lilithraws.org
+0.0.0.0 www.tracker.lintk.me
 0.0.0.0 www.tracker.loadbt.com
 0.0.0.0 www.tracker.logirl.moe
 0.0.0.0 www.tracker.loli.co.nz
@@ -8133,6 +8162,7 @@
 0.0.0.0 www.tracker.tvunderground.org.ru
 0.0.0.0 www.tracker.uraniumhexafluori.de
 0.0.0.0 www.tracker.v6speed.org
+0.0.0.0 www.tracker.vanitycore.co
 0.0.0.0 www.tracker.vds.nz
 0.0.0.0 www.tracker.vectahosting.eu
 0.0.0.0 www.tracker.vraphim.com
@@ -8140,6 +8170,7 @@
 0.0.0.0 www.tracker.vulnix.sh
 0.0.0.0 www.tracker.waaa.moe
 0.0.0.0 www.tracker.wellknownclub.net
+0.0.0.0 www.tracker.xiaoduola.xyz
 0.0.0.0 www.tracker.xor.st
 0.0.0.0 www.tracker.yangxiaoguozi.cn
 0.0.0.0 www.tracker.yarr.pt
@@ -8165,6 +8196,7 @@
 0.0.0.0 www.tracker3.520.jp
 0.0.0.0 www.tracker3.ctix.cn
 0.0.0.0 www.tracker3.t-1.org
+0.0.0.0 www.tracker4.leechshield.link
 0.0.0.0 www.tracker6.dler.org
 0.0.0.0 www.tracker6.lelux.fi
 0.0.0.0 www.trackerb.jonaslsa.com
