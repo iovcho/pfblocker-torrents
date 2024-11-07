@@ -3834,6 +3834,7 @@
 0.0.0.0 tr.qfruiti.com
 0.0.0.0 tr.qfruiti.in
 0.0.0.0 tr.torland.ga
+0.0.0.0 tr.zukizuki.org
 0.0.0.0 tr1.aag.moe
 0.0.0.0 tr2.cubonegro.lol
 0.0.0.0 tr2.trkb.ru
@@ -7966,6 +7967,7 @@
 0.0.0.0 www.tr.qfruiti.com
 0.0.0.0 www.tr.qfruiti.in
 0.0.0.0 www.tr.torland.ga
+0.0.0.0 www.tr.zukizuki.org
 0.0.0.0 www.tr1.aag.moe
 0.0.0.0 www.tr2.cubonegro.lol
 0.0.0.0 www.tr2.trkb.ru
