@@ -3780,6 +3780,7 @@
 0.0.0.0 su-data.com
 0.0.0.0 sx.xxtor.com
 0.0.0.0 t.133335.xyz
+0.0.0.0 t.213891.xyz
 0.0.0.0 t.btcland.xyz
 0.0.0.0 t.peer-exchange.download
 0.0.0.0 t.publictracker.xyz
@@ -7914,6 +7915,7 @@
 0.0.0.0 www.su-data.com
 0.0.0.0 www.sx.xxtor.com
 0.0.0.0 www.t.133335.xyz
+0.0.0.0 www.t.213891.xyz
 0.0.0.0 www.t.btcland.xyz
 0.0.0.0 www.t.peer-exchange.download
 0.0.0.0 www.t.publictracker.xyz
