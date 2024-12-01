@@ -4037,6 +4037,7 @@
 0.0.0.0 tracker.tvunderground.org.ru
 0.0.0.0 tracker.uraniumhexafluori.de
 0.0.0.0 tracker.v6speed.org
+0.0.0.0 tracker.valete.tf
 0.0.0.0 tracker.vanitycore.co
 0.0.0.0 tracker.vds.nz
 0.0.0.0 tracker.vectahosting.eu
@@ -8172,6 +8173,7 @@
 0.0.0.0 www.tracker.tvunderground.org.ru
 0.0.0.0 www.tracker.uraniumhexafluori.de
 0.0.0.0 www.tracker.v6speed.org
+0.0.0.0 www.tracker.valete.tf
 0.0.0.0 www.tracker.vanitycore.co
 0.0.0.0 www.tracker.vds.nz
 0.0.0.0 www.tracker.vectahosting.eu
