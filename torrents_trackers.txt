@@ -4094,6 +4094,7 @@
 0.0.0.0 u4.trakx.crim.ist
 0.0.0.0 u6.trakx.crim.ist
 0.0.0.0 udp-tracker.shittyurl.org
+0.0.0.0 udp.tracker.projectk.org
 0.0.0.0 udp.yarr.pt
 0.0.0.0 ultra.zt.ua
 0.0.0.0 unit193.net
@@ -8231,6 +8232,7 @@
 0.0.0.0 www.u4.trakx.crim.ist
 0.0.0.0 www.u6.trakx.crim.ist
 0.0.0.0 www.udp-tracker.shittyurl.org
+0.0.0.0 www.udp.tracker.projectk.org
 0.0.0.0 www.udp.yarr.pt
 0.0.0.0 www.ultra.zt.ua
 0.0.0.0 www.unit193.net
