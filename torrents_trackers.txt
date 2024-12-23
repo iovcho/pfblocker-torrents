@@ -3832,6 +3832,7 @@
 0.0.0.0 tr.doogh.club
 0.0.0.0 tr.fuckbitcoin.xyz
 0.0.0.0 tr.highstar.shop
+0.0.0.0 tr.movian.eu
 0.0.0.0 tr.nyacat.pw
 0.0.0.0 tr.qfruiti.com
 0.0.0.0 tr.qfruiti.in
@@ -7970,6 +7971,7 @@
 0.0.0.0 www.tr.doogh.club
 0.0.0.0 www.tr.fuckbitcoin.xyz
 0.0.0.0 www.tr.highstar.shop
+0.0.0.0 www.tr.movian.eu
 0.0.0.0 www.tr.nyacat.pw
 0.0.0.0 www.tr.qfruiti.com
 0.0.0.0 www.tr.qfruiti.in
