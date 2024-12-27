@@ -3488,6 +3488,7 @@
 0.0.0.0 boysbitte.be
 0.0.0.0 brokenstones.is
 0.0.0.0 bruh.cluster.ws
+0.0.0.0 bry-dell-htpc.freeddns.org
 0.0.0.0 bt.080609.xyz
 0.0.0.0 bt.3kb.xyz
 0.0.0.0 bt.endpot.com
@@ -7628,6 +7629,7 @@
 0.0.0.0 www.boysbitte.be
 0.0.0.0 www.brokenstones.is
 0.0.0.0 www.bruh.cluster.ws
+0.0.0.0 www.bry-dell-htpc.freeddns.org
 0.0.0.0 www.bt.080609.xyz
 0.0.0.0 www.bt.3kb.xyz
 0.0.0.0 www.bt.endpot.com
