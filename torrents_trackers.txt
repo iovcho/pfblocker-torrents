@@ -3475,6 +3475,7 @@
 0.0.0.0 ben.kerbertools.xyz
 0.0.0.0 benouworldtrip.fr
 0.0.0.0 betasoftsp.com.br
+0.0.0.0 betelgeuse.freeddns.org
 0.0.0.0 bitsparadise.info
 0.0.0.0 bittorrent-tracker.e-n-c-r-y-p-t.net
 0.0.0.0 bittorrent.gongt.net
@@ -7617,6 +7618,7 @@
 0.0.0.0 www.ben.kerbertools.xyz
 0.0.0.0 www.benouworldtrip.fr
 0.0.0.0 www.betasoftsp.com.br
+0.0.0.0 www.betelgeuse.freeddns.org
 0.0.0.0 www.bitsparadise.info
 0.0.0.0 www.bittorrent-tracker.e-n-c-r-y-p-t.net
 0.0.0.0 www.bittorrent.gongt.net
