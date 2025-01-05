@@ -3750,6 +3750,7 @@
 0.0.0.0 run.publictracker.xyz
 0.0.0.0 rutorrent.frontline-mod.com
 0.0.0.0 ryjer.com
+0.0.0.0 s926723.ha016.t.mydomain.zone
 0.0.0.0 sabross.xyz
 0.0.0.0 saltwood.top
 0.0.0.0 sanincode.com
@@ -7893,6 +7894,7 @@
 0.0.0.0 www.run.publictracker.xyz
 0.0.0.0 www.rutorrent.frontline-mod.com
 0.0.0.0 www.ryjer.com
+0.0.0.0 www.s926723.ha016.t.mydomain.zone
 0.0.0.0 www.sabross.xyz
 0.0.0.0 www.saltwood.top
 0.0.0.0 www.sanincode.com
