@@ -4053,6 +4053,7 @@
 0.0.0.0 tracker.vulnix.sh
 0.0.0.0 tracker.waaa.moe
 0.0.0.0 tracker.wellknownclub.net
+0.0.0.0 tracker.wsaoa.eu.org
 0.0.0.0 tracker.xiaoduola.xyz
 0.0.0.0 tracker.xor.st
 0.0.0.0 tracker.yangxiaoguozi.cn
@@ -8198,6 +8199,7 @@
 0.0.0.0 www.tracker.vulnix.sh
 0.0.0.0 www.tracker.waaa.moe
 0.0.0.0 www.tracker.wellknownclub.net
+0.0.0.0 www.tracker.wsaoa.eu.org
 0.0.0.0 www.tracker.xiaoduola.xyz
 0.0.0.0 www.tracker.xor.st
 0.0.0.0 www.tracker.yangxiaoguozi.cn
