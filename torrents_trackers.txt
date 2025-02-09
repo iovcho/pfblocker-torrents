@@ -3503,6 +3503,7 @@
 0.0.0.0 bt.xcty.eu.org
 0.0.0.0 bt1.letpo.com
 0.0.0.0 bt1.xxxxbt.cc
+0.0.0.0 bt2.080609.xyz
 0.0.0.0 btracker.top
 0.0.0.0 btt.service.gongt.me
 0.0.0.0 bttracker.sylphix.com
@@ -7649,6 +7650,7 @@
 0.0.0.0 www.bt.xcty.eu.org
 0.0.0.0 www.bt1.letpo.com
 0.0.0.0 www.bt1.xxxxbt.cc
+0.0.0.0 www.bt2.080609.xyz
 0.0.0.0 www.btracker.top
 0.0.0.0 www.btt.service.gongt.me
 0.0.0.0 www.bttracker.sylphix.com
