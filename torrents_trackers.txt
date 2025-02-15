@@ -3971,6 +3971,7 @@
 0.0.0.0 tracker.lilithraws.cf
 0.0.0.0 tracker.lilithraws.org
 0.0.0.0 tracker.lintk.me
+0.0.0.0 tracker.linvk.com
 0.0.0.0 tracker.loadbt.com
 0.0.0.0 tracker.logirl.moe
 0.0.0.0 tracker.loli.co.nz
@@ -8118,6 +8119,7 @@
 0.0.0.0 www.tracker.lilithraws.cf
 0.0.0.0 www.tracker.lilithraws.org
 0.0.0.0 www.tracker.lintk.me
+0.0.0.0 www.tracker.linvk.com
 0.0.0.0 www.tracker.loadbt.com
 0.0.0.0 www.tracker.logirl.moe
 0.0.0.0 www.tracker.loli.co.nz
