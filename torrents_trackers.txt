@@ -3487,6 +3487,7 @@
 0.0.0.0 bot.ponomar-sibir.ru
 0.0.0.0 box.ossete.eu.org
 0.0.0.0 boysbitte.be
+0.0.0.0 brokenhelix.loseyourip.com
 0.0.0.0 brokenstones.is
 0.0.0.0 bruh.cluster.ws
 0.0.0.0 bry-dell-htpc.freeddns.org
@@ -7635,6 +7636,7 @@
 0.0.0.0 www.bot.ponomar-sibir.ru
 0.0.0.0 www.box.ossete.eu.org
 0.0.0.0 www.boysbitte.be
+0.0.0.0 www.brokenhelix.loseyourip.com
 0.0.0.0 www.brokenstones.is
 0.0.0.0 www.bruh.cluster.ws
 0.0.0.0 www.bry-dell-htpc.freeddns.org
