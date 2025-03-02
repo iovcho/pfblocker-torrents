@@ -4067,6 +4067,7 @@
 0.0.0.0 tracker.zaluan.xyz
 0.0.0.0 tracker.zekun.fun
 0.0.0.0 tracker.zemoj.com
+0.0.0.0 tracker.zhuqiy.top
 0.0.0.0 tracker0.ufibox.com
 0.0.0.0 tracker01.loveapp.com
 0.0.0.0 tracker1.520.jp
@@ -8216,6 +8217,7 @@
 0.0.0.0 www.tracker.zaluan.xyz
 0.0.0.0 www.tracker.zekun.fun
 0.0.0.0 www.tracker.zemoj.com
+0.0.0.0 www.tracker.zhuqiy.top
 0.0.0.0 www.tracker0.ufibox.com
 0.0.0.0 www.tracker01.loveapp.com
 0.0.0.0 www.tracker1.520.jp
