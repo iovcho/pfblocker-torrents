@@ -3491,6 +3491,7 @@
 0.0.0.0 brokenstones.is
 0.0.0.0 bruh.cluster.ws
 0.0.0.0 bry-dell-htpc.freeddns.org
+0.0.0.0 bt-tracker.devnak.win
 0.0.0.0 bt.080609.xyz
 0.0.0.0 bt.3kb.xyz
 0.0.0.0 bt.endpot.com
@@ -3643,6 +3644,7 @@
 0.0.0.0 lloria.fr
 0.0.0.0 ln.mtahost.co
 0.0.0.0 lopatins.ru
+0.0.0.0 lucke.fenesisu.moe
 0.0.0.0 lulz.vpndb.org
 0.0.0.0 luna.jae.su
 0.0.0.0 madiator.com
@@ -7641,6 +7643,7 @@
 0.0.0.0 www.brokenstones.is
 0.0.0.0 www.bruh.cluster.ws
 0.0.0.0 www.bry-dell-htpc.freeddns.org
+0.0.0.0 www.bt-tracker.devnak.win
 0.0.0.0 www.bt.080609.xyz
 0.0.0.0 www.bt.3kb.xyz
 0.0.0.0 www.bt.endpot.com
@@ -7793,6 +7796,7 @@
 0.0.0.0 www.lloria.fr
 0.0.0.0 www.ln.mtahost.co
 0.0.0.0 www.lopatins.ru
+0.0.0.0 www.lucke.fenesisu.moe
 0.0.0.0 www.lulz.vpndb.org
 0.0.0.0 www.luna.jae.su
 0.0.0.0 www.madiator.com
