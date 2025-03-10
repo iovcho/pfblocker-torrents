@@ -3429,11 +3429,13 @@
 0.0.0.0 337hhh.tpddns.cn
 0.0.0.0 337hhh.xyz
 0.0.0.0 3rt.tace.ru
+0.0.0.0 4.tracker.devnak.win
 0.0.0.0 47.ip-51-68-199.eu
 0.0.0.0 504e163a.host.njalla.net
 0.0.0.0 5rt.tace.ru
 0.0.0.0 6.beyondth.cn
 0.0.0.0 6.pocketnet.app
+0.0.0.0 6.tracker.devnak.win
 0.0.0.0 61626c.net
 0.0.0.0 62-210-114-129.rev.poneytelecom.eu
 0.0.0.0 6ahddutb1ucc3cp.ru
@@ -7581,11 +7583,13 @@
 0.0.0.0 www.337hhh.tpddns.cn
 0.0.0.0 www.337hhh.xyz
 0.0.0.0 www.3rt.tace.ru
+0.0.0.0 www.4.tracker.devnak.win
 0.0.0.0 www.47.ip-51-68-199.eu
 0.0.0.0 www.504e163a.host.njalla.net
 0.0.0.0 www.5rt.tace.ru
 0.0.0.0 www.6.beyondth.cn
 0.0.0.0 www.6.pocketnet.app
+0.0.0.0 www.6.tracker.devnak.win
 0.0.0.0 www.61626c.net
 0.0.0.0 www.62-210-114-129.rev.poneytelecom.eu
 0.0.0.0 www.6ahddutb1ucc3cp.ru
