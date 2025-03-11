@@ -3947,6 +3947,7 @@
 0.0.0.0 tracker.haynet.io
 0.0.0.0 tracker.hentai.gg
 0.0.0.0 tracker.hiyj.cn
+0.0.0.0 tracker.home.kmzs123.cn
 0.0.0.0 tracker.htp.re
 0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.iperson.xyz
@@ -8101,6 +8102,7 @@
 0.0.0.0 www.tracker.haynet.io
 0.0.0.0 www.tracker.hentai.gg
 0.0.0.0 www.tracker.hiyj.cn
+0.0.0.0 www.tracker.home.kmzs123.cn
 0.0.0.0 www.tracker.htp.re
 0.0.0.0 www.tracker.idocdn.com
 0.0.0.0 www.tracker.iperson.xyz
