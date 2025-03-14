@@ -3826,6 +3826,7 @@
 0.0.0.0 tor.rev.pm
 0.0.0.0 torrent-tracker.hama3.net
 0.0.0.0 torrent.hificode.in
+0.0.0.0 torrent.i.ng
 0.0.0.0 torrent.skynetcenter.me
 0.0.0.0 torrent.tdjs.tech
 0.0.0.0 torrent.tracker.durukanbal.com
@@ -7983,6 +7984,7 @@
 0.0.0.0 www.tor.rev.pm
 0.0.0.0 www.torrent-tracker.hama3.net
 0.0.0.0 www.torrent.hificode.in
+0.0.0.0 www.torrent.i.ng
 0.0.0.0 www.torrent.skynetcenter.me
 0.0.0.0 www.torrent.tdjs.tech
 0.0.0.0 www.torrent.tracker.durukanbal.com
