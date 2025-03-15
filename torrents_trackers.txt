@@ -3938,6 +3938,7 @@
 0.0.0.0 tracker.fortu.io
 0.0.0.0 tracker.gcrenwp.top
 0.0.0.0 tracker.gcrreen.xyz
+0.0.0.0 tracker.ghostchu-services.top
 0.0.0.0 tracker.gigantino.net
 0.0.0.0 tracker.gmi.gd
 0.0.0.0 tracker.grepler.com
@@ -4122,6 +4123,7 @@
 0.0.0.0 uploads.gamecoast.net
 0.0.0.0 uraniumhexafluori.de
 0.0.0.0 us-tracker.publictracker.xyz
+0.0.0.0 utracker.ghostchu-services.top
 0.0.0.0 v1046920.hosted-by-vdsina.ru
 0.0.0.0 v2.iperson.xyz
 0.0.0.0 v6-tracker.0g.cx
@@ -8096,6 +8098,7 @@
 0.0.0.0 www.tracker.fortu.io
 0.0.0.0 www.tracker.gcrenwp.top
 0.0.0.0 www.tracker.gcrreen.xyz
+0.0.0.0 www.tracker.ghostchu-services.top
 0.0.0.0 www.tracker.gigantino.net
 0.0.0.0 www.tracker.gmi.gd
 0.0.0.0 www.tracker.grepler.com
@@ -8280,6 +8283,7 @@
 0.0.0.0 www.uploads.gamecoast.net
 0.0.0.0 www.uraniumhexafluori.de
 0.0.0.0 www.us-tracker.publictracker.xyz
+0.0.0.0 www.utracker.ghostchu-services.top
 0.0.0.0 www.v1046920.hosted-by-vdsina.ru
 0.0.0.0 www.v2.iperson.xyz
 0.0.0.0 www.v6-tracker.0g.cx
