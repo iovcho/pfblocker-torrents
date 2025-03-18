@@ -3574,6 +3574,7 @@
 0.0.0.0 f1sh.de
 0.0.0.0 fe.dealclub.de
 0.0.0.0 fh2.cmp-gaming.com
+0.0.0.0 files.project-cataclysm.ru
 0.0.0.0 filetracker.xyz
 0.0.0.0 fireworks.eu.org
 0.0.0.0 fleira.no
@@ -3943,6 +3944,7 @@
 0.0.0.0 tracker.gmi.gd
 0.0.0.0 tracker.grepler.com
 0.0.0.0 tracker.guguan.000.pe
+0.0.0.0 tracker.guguan.dpdns.org
 0.0.0.0 tracker.guguan.us.kg
 0.0.0.0 tracker.h0me.cc
 0.0.0.0 tracker.h3o2.me
@@ -7734,6 +7736,7 @@
 0.0.0.0 www.f1sh.de
 0.0.0.0 www.fe.dealclub.de
 0.0.0.0 www.fh2.cmp-gaming.com
+0.0.0.0 www.files.project-cataclysm.ru
 0.0.0.0 www.filetracker.xyz
 0.0.0.0 www.fireworks.eu.org
 0.0.0.0 www.fleira.no
@@ -8103,6 +8106,7 @@
 0.0.0.0 www.tracker.gmi.gd
 0.0.0.0 www.tracker.grepler.com
 0.0.0.0 www.tracker.guguan.000.pe
+0.0.0.0 www.tracker.guguan.dpdns.org
 0.0.0.0 www.tracker.guguan.us.kg
 0.0.0.0 www.tracker.h0me.cc
 0.0.0.0 www.tracker.h3o2.me
