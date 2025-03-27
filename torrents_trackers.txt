@@ -4009,6 +4009,7 @@
 0.0.0.0 tracker.ololosh.space
 0.0.0.0 tracker.open-data.network
 0.0.0.0 tracker.openbtba.com
+0.0.0.0 tracker.opendev.cloud
 0.0.0.0 tracker.opentracker.se
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.pcfreetime.com
@@ -8171,6 +8172,7 @@
 0.0.0.0 www.tracker.ololosh.space
 0.0.0.0 www.tracker.open-data.network
 0.0.0.0 www.tracker.openbtba.com
+0.0.0.0 www.tracker.opendev.cloud
 0.0.0.0 www.tracker.opentracker.se
 0.0.0.0 www.tracker.opentrackr.org
 0.0.0.0 www.tracker.pcfreetime.com
