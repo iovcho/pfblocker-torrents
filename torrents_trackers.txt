@@ -3862,6 +3862,7 @@
 0.0.0.0 tracker-cn.zhuqiy.eu.org
 0.0.0.0 tracker-udp.gbitt.info
 0.0.0.0 tracker-us.silksa.co.za
+0.0.0.0 tracker-v6.opendev.cloud
 0.0.0.0 tracker-v6.zooki.xyz
 0.0.0.0 tracker-zhuqiy.dgj055.icu
 0.0.0.0 tracker.0o.is
@@ -8025,6 +8026,7 @@
 0.0.0.0 www.tracker-cn.zhuqiy.eu.org
 0.0.0.0 www.tracker-udp.gbitt.info
 0.0.0.0 www.tracker-us.silksa.co.za
+0.0.0.0 www.tracker-v6.opendev.cloud
 0.0.0.0 www.tracker-v6.zooki.xyz
 0.0.0.0 www.tracker-zhuqiy.dgj055.icu
 0.0.0.0 www.tracker.0o.is
