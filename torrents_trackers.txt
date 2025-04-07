@@ -3679,6 +3679,7 @@
 0.0.0.0 novaopcj.icu
 0.0.0.0 ns-1.x-fins.com
 0.0.0.0 ns1.monolithindustries.com
+0.0.0.0 ns3109441.mypdns.org
 0.0.0.0 ns331480.ip-37-187-121.eu
 0.0.0.0 ns349743.ip-91-121-106.eu
 0.0.0.0 ns389251.ovh.net
@@ -7843,6 +7844,7 @@
 0.0.0.0 www.novaopcj.icu
 0.0.0.0 www.ns-1.x-fins.com
 0.0.0.0 www.ns1.monolithindustries.com
+0.0.0.0 www.ns3109441.mypdns.org
 0.0.0.0 www.ns331480.ip-37-187-121.eu
 0.0.0.0 www.ns349743.ip-91-121-106.eu
 0.0.0.0 www.ns389251.ovh.net
