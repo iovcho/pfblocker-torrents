@@ -3920,6 +3920,7 @@
 0.0.0.0 tracker.dmhy.pw
 0.0.0.0 tracker.dnlab.net
 0.0.0.0 tracker.draatman.uk
+0.0.0.0 tracker.ducks.party
 0.0.0.0 tracker.dump.cl
 0.0.0.0 tracker.dyne.org
 0.0.0.0 tracker.e-utp.net
@@ -4053,6 +4054,7 @@
 0.0.0.0 tracker.torrentbay.to
 0.0.0.0 tracker.torrentuje.me
 0.0.0.0 tracker.torrust-demo.com
+0.0.0.0 tracker.trackarr.org
 0.0.0.0 tracker.trackton.ga
 0.0.0.0 tracker.trojangogogo.site
 0.0.0.0 tracker.tryhackx.org
@@ -8085,6 +8087,7 @@
 0.0.0.0 www.tracker.dmhy.pw
 0.0.0.0 www.tracker.dnlab.net
 0.0.0.0 www.tracker.draatman.uk
+0.0.0.0 www.tracker.ducks.party
 0.0.0.0 www.tracker.dump.cl
 0.0.0.0 www.tracker.dyne.org
 0.0.0.0 www.tracker.e-utp.net
@@ -8218,6 +8221,7 @@
 0.0.0.0 www.tracker.torrentbay.to
 0.0.0.0 www.tracker.torrentuje.me
 0.0.0.0 www.tracker.torrust-demo.com
+0.0.0.0 www.tracker.trackarr.org
 0.0.0.0 www.tracker.trackton.ga
 0.0.0.0 www.tracker.trojangogogo.site
 0.0.0.0 www.tracker.tryhackx.org
