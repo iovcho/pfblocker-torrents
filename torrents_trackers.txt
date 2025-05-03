@@ -3424,6 +3424,7 @@
 0.0.0.0 5rt.tace.ru
 0.0.0.0 61626c.net
 0.0.0.0 adm.category5.tv
+0.0.0.0 admin.52ywp.com
 0.0.0.0 admin.videoenpoche.info
 0.0.0.0 adminion.n-blade.ru
 0.0.0.0 api.bitumconference.ru
@@ -3477,6 +3478,7 @@
 0.0.0.0 ipv6.rer.lol
 0.0.0.0 ipv6.tracker.harry.lu
 0.0.0.0 ipv6.tracker.zerobytes.xyz
+0.0.0.0 isk.richardsw.club
 0.0.0.0 ismaarino.com
 0.0.0.0 jsb.by
 0.0.0.0 kanal-4.de
@@ -3565,6 +3567,7 @@
 0.0.0.0 tracker.dler.com
 0.0.0.0 tracker.dmcomic.org
 0.0.0.0 tracker.ducks.party
+0.0.0.0 tracker.dump.cl
 0.0.0.0 tracker.dyne.org
 0.0.0.0 tracker.e-utp.net
 0.0.0.0 tracker.eddie4.nl
@@ -3591,6 +3594,7 @@
 0.0.0.0 tracker.leechshield.link
 0.0.0.0 tracker.lilithraws.org
 0.0.0.0 tracker.lintk.me
+0.0.0.0 tracker.linvk.com
 0.0.0.0 tracker.moeblog.cn
 0.0.0.0 tracker.msm8916.com
 0.0.0.0 tracker.mywaifu.best
@@ -3610,11 +3614,13 @@
 0.0.0.0 tracker.skyts.net
 0.0.0.0 tracker.srv00.com
 0.0.0.0 tracker.teambelgium.net
+0.0.0.0 tracker.theoks.net
 0.0.0.0 tracker.therarbg.to
 0.0.0.0 tracker.torrentbay.to
 0.0.0.0 tracker.torrust-demo.com
 0.0.0.0 tracker.trackarr.org
 0.0.0.0 tracker.trackton.ga
+0.0.0.0 tracker.tritan.gg
 0.0.0.0 tracker.tryhackx.org
 0.0.0.0 tracker.tvunderground.org.ru
 0.0.0.0 tracker.v6speed.org
@@ -3641,6 +3647,7 @@
 0.0.0.0 udp.tracker.projectk.org
 0.0.0.0 ultra.zt.ua
 0.0.0.0 us-tracker.publictracker.xyz
+0.0.0.0 utracker.ghostchu-services.top
 0.0.0.0 vibe.community
 0.0.0.0 w.wwwww.wtf
 0.0.0.0 wassermann.online
@@ -7075,6 +7082,7 @@
 0.0.0.0 www.5rt.tace.ru
 0.0.0.0 www.61626c.net
 0.0.0.0 www.adm.category5.tv
+0.0.0.0 www.admin.52ywp.com
 0.0.0.0 www.admin.videoenpoche.info
 0.0.0.0 www.adminion.n-blade.ru
 0.0.0.0 www.api.bitumconference.ru
@@ -7128,6 +7136,7 @@
 0.0.0.0 www.ipv6.rer.lol
 0.0.0.0 www.ipv6.tracker.harry.lu
 0.0.0.0 www.ipv6.tracker.zerobytes.xyz
+0.0.0.0 www.isk.richardsw.club
 0.0.0.0 www.ismaarino.com
 0.0.0.0 www.jsb.by
 0.0.0.0 www.kanal-4.de
@@ -7216,6 +7225,7 @@
 0.0.0.0 www.tracker.dler.com
 0.0.0.0 www.tracker.dmcomic.org
 0.0.0.0 www.tracker.ducks.party
+0.0.0.0 www.tracker.dump.cl
 0.0.0.0 www.tracker.dyne.org
 0.0.0.0 www.tracker.e-utp.net
 0.0.0.0 www.tracker.eddie4.nl
@@ -7242,6 +7252,7 @@
 0.0.0.0 www.tracker.leechshield.link
 0.0.0.0 www.tracker.lilithraws.org
 0.0.0.0 www.tracker.lintk.me
+0.0.0.0 www.tracker.linvk.com
 0.0.0.0 www.tracker.moeblog.cn
 0.0.0.0 www.tracker.msm8916.com
 0.0.0.0 www.tracker.mywaifu.best
@@ -7261,11 +7272,13 @@
 0.0.0.0 www.tracker.skyts.net
 0.0.0.0 www.tracker.srv00.com
 0.0.0.0 www.tracker.teambelgium.net
+0.0.0.0 www.tracker.theoks.net
 0.0.0.0 www.tracker.therarbg.to
 0.0.0.0 www.tracker.torrentbay.to
 0.0.0.0 www.tracker.torrust-demo.com
 0.0.0.0 www.tracker.trackarr.org
 0.0.0.0 www.tracker.trackton.ga
+0.0.0.0 www.tracker.tritan.gg
 0.0.0.0 www.tracker.tryhackx.org
 0.0.0.0 www.tracker.tvunderground.org.ru
 0.0.0.0 www.tracker.v6speed.org
@@ -7292,6 +7305,7 @@
 0.0.0.0 www.udp.tracker.projectk.org
 0.0.0.0 www.ultra.zt.ua
 0.0.0.0 www.us-tracker.publictracker.xyz
+0.0.0.0 www.utracker.ghostchu-services.top
 0.0.0.0 www.vibe.community
 0.0.0.0 www.w.wwwww.wtf
 0.0.0.0 www.wassermann.online
