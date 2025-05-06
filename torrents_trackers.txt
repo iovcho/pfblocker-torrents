@@ -3500,6 +3500,7 @@
 0.0.0.0 ns389251.ovh.net
 0.0.0.0 omg.wtftrackr.xyz
 0.0.0.0 open.dstud.io
+0.0.0.0 open.free-tracker.ga
 0.0.0.0 open.trackerlist.xyz
 0.0.0.0 opentracker.io
 0.0.0.0 opentracker.xyz
@@ -7160,6 +7161,7 @@
 0.0.0.0 www.ns389251.ovh.net
 0.0.0.0 www.omg.wtftrackr.xyz
 0.0.0.0 www.open.dstud.io
+0.0.0.0 www.open.free-tracker.ga
 0.0.0.0 www.open.trackerlist.xyz
 0.0.0.0 www.opentracker.io
 0.0.0.0 www.opentracker.xyz
