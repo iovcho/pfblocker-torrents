@@ -3462,6 +3462,7 @@
 0.0.0.0 edu.uifr.ru
 0.0.0.0 engplus.ru
 0.0.0.0 evan.im
+0.0.0.0 extracker.dahrkael.net
 0.0.0.0 fe.dealclub.de
 0.0.0.0 forever-tracker.zooki.xyz
 0.0.0.0 forever.publictracker.xyz
@@ -7124,6 +7125,7 @@
 0.0.0.0 www.edu.uifr.ru
 0.0.0.0 www.engplus.ru
 0.0.0.0 www.evan.im
+0.0.0.0 www.extracker.dahrkael.net
 0.0.0.0 www.fe.dealclub.de
 0.0.0.0 www.forever-tracker.zooki.xyz
 0.0.0.0 www.forever.publictracker.xyz
