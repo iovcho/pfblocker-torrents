@@ -3533,6 +3533,7 @@
 0.0.0.0 t3.leech.ie
 0.0.0.0 taciturn-shadow.spb.ru
 0.0.0.0 thouvenin.cloud
+0.0.0.0 threads.canofsocks.com
 0.0.0.0 tk.greedland.net
 0.0.0.0 tk.mabo.ltd
 0.0.0.0 torrent.hificode.in
@@ -3608,6 +3609,7 @@
 0.0.0.0 tracker.opentracker.se
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.piratepublic.com
+0.0.0.0 tracker.pmman.tech
 0.0.0.0 tracker.privateseedbox.xyz
 0.0.0.0 tracker.publicbt.com
 0.0.0.0 tracker.publictracker.xyz
@@ -7196,6 +7198,7 @@
 0.0.0.0 www.t3.leech.ie
 0.0.0.0 www.taciturn-shadow.spb.ru
 0.0.0.0 www.thouvenin.cloud
+0.0.0.0 www.threads.canofsocks.com
 0.0.0.0 www.tk.greedland.net
 0.0.0.0 www.tk.mabo.ltd
 0.0.0.0 www.torrent.hificode.in
@@ -7271,6 +7274,7 @@
 0.0.0.0 www.tracker.opentracker.se
 0.0.0.0 www.tracker.opentrackr.org
 0.0.0.0 www.tracker.piratepublic.com
+0.0.0.0 www.tracker.pmman.tech
 0.0.0.0 www.tracker.privateseedbox.xyz
 0.0.0.0 www.tracker.publicbt.com
 0.0.0.0 www.tracker.publictracker.xyz
