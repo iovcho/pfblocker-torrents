@@ -3558,6 +3558,7 @@
 0.0.0.0 tracker.altrosky.nl
 0.0.0.0 tracker.army
 0.0.0.0 tracker.beeimg.com
+0.0.0.0 tracker.bitcoinindia.space
 0.0.0.0 tracker.bittorrent.am
 0.0.0.0 tracker.bjut.jp
 0.0.0.0 tracker.blacksparrowmedia.net
@@ -7223,6 +7224,7 @@
 0.0.0.0 www.tracker.altrosky.nl
 0.0.0.0 www.tracker.army
 0.0.0.0 www.tracker.beeimg.com
+0.0.0.0 www.tracker.bitcoinindia.space
 0.0.0.0 www.tracker.bittorrent.am
 0.0.0.0 www.tracker.bjut.jp
 0.0.0.0 www.tracker.blacksparrowmedia.net
