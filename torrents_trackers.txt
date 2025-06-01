@@ -3612,6 +3612,7 @@
 0.0.0.0 tracker.opentracker.se
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.piratepublic.com
+0.0.0.0 tracker.plx.im
 0.0.0.0 tracker.pmman.tech
 0.0.0.0 tracker.privateseedbox.xyz
 0.0.0.0 tracker.publicbt.com
@@ -7280,6 +7281,7 @@
 0.0.0.0 www.tracker.opentracker.se
 0.0.0.0 www.tracker.opentrackr.org
 0.0.0.0 www.tracker.piratepublic.com
+0.0.0.0 www.tracker.plx.im
 0.0.0.0 www.tracker.pmman.tech
 0.0.0.0 www.tracker.privateseedbox.xyz
 0.0.0.0 www.tracker.publicbt.com
