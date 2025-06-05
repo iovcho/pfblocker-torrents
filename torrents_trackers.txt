@@ -3550,6 +3550,7 @@
 0.0.0.0 trackarr.org
 0.0.0.0 tracker-udp.gbitt.info
 0.0.0.0 tracker-v6.zooki.xyz
+0.0.0.0 tracker-zhuqiy.dgj055.icu
 0.0.0.0 tracker.0o.is
 0.0.0.0 tracker.0x.tf
 0.0.0.0 tracker.0x7c0.com
@@ -3643,6 +3644,7 @@
 0.0.0.0 tracker.yemekyedim.com
 0.0.0.0 tracker.yume-hatsuyuki.moe
 0.0.0.0 tracker.zemoj.com
+0.0.0.0 tracker.zhuqiy.dgj055.icu
 0.0.0.0 tracker.zhuqiy.top
 0.0.0.0 tracker0.ufibox.com
 0.0.0.0 tracker01.loveapp.com
@@ -7219,6 +7221,7 @@
 0.0.0.0 www.trackarr.org
 0.0.0.0 www.tracker-udp.gbitt.info
 0.0.0.0 www.tracker-v6.zooki.xyz
+0.0.0.0 www.tracker-zhuqiy.dgj055.icu
 0.0.0.0 www.tracker.0o.is
 0.0.0.0 www.tracker.0x.tf
 0.0.0.0 www.tracker.0x7c0.com
@@ -7312,6 +7315,7 @@
 0.0.0.0 www.tracker.yemekyedim.com
 0.0.0.0 www.tracker.yume-hatsuyuki.moe
 0.0.0.0 www.tracker.zemoj.com
+0.0.0.0 www.tracker.zhuqiy.dgj055.icu
 0.0.0.0 www.tracker.zhuqiy.top
 0.0.0.0 www.tracker0.ufibox.com
 0.0.0.0 www.tracker01.loveapp.com
