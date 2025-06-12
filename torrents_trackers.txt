@@ -3620,6 +3620,7 @@
 0.0.0.0 tracker.publictracker.xyz
 0.0.0.0 tracker.qu.ax
 0.0.0.0 tracker.renfei.net
+0.0.0.0 tracker.rescuecrew7.com
 0.0.0.0 tracker.shkinev.me
 0.0.0.0 tracker.skynetcloud.site
 0.0.0.0 tracker.skyts.net
@@ -7291,6 +7292,7 @@
 0.0.0.0 www.tracker.publictracker.xyz
 0.0.0.0 www.tracker.qu.ax
 0.0.0.0 www.tracker.renfei.net
+0.0.0.0 www.tracker.rescuecrew7.com
 0.0.0.0 www.tracker.shkinev.me
 0.0.0.0 www.tracker.skynetcloud.site
 0.0.0.0 www.tracker.skyts.net
