@@ -3451,6 +3451,7 @@
 0.0.0.0 cdn-2.gamecoast.org
 0.0.0.0 chanchan.uchuu.co.uk
 0.0.0.0 chihaya.de
+0.0.0.0 cn.pcfreetime.com
 0.0.0.0 code2chicken.nl
 0.0.0.0 cutiegirl.ru
 0.0.0.0 d40969.acod.regrucolo.ru
@@ -7123,6 +7124,7 @@
 0.0.0.0 www.cdn-2.gamecoast.org
 0.0.0.0 www.chanchan.uchuu.co.uk
 0.0.0.0 www.chihaya.de
+0.0.0.0 www.cn.pcfreetime.com
 0.0.0.0 www.code2chicken.nl
 0.0.0.0 www.cutiegirl.ru
 0.0.0.0 www.d40969.acod.regrucolo.ru
