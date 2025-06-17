@@ -3419,6 +3419,7 @@
 0.0.0.0 0205.uptm.ch
 0.0.0.0 0d.kebhana.mx
 0.0.0.0 1.tracker.eu.org
+0.0.0.0 1c.premierzal.ru
 0.0.0.0 3rt.tace.ru
 0.0.0.0 47.ip-51-68-199.eu
 0.0.0.0 5rt.tace.ru
@@ -7092,6 +7093,7 @@
 0.0.0.0 www.0205.uptm.ch
 0.0.0.0 www.0d.kebhana.mx
 0.0.0.0 www.1.tracker.eu.org
+0.0.0.0 www.1c.premierzal.ru
 0.0.0.0 www.3rt.tace.ru
 0.0.0.0 www.47.ip-51-68-199.eu
 0.0.0.0 www.5rt.tace.ru
