@@ -3624,6 +3624,7 @@
 0.0.0.0 tracker.renfei.net
 0.0.0.0 tracker.rescuecrew7.com
 0.0.0.0 tracker.shkinev.me
+0.0.0.0 tracker.skillindia.site
 0.0.0.0 tracker.skynetcloud.site
 0.0.0.0 tracker.skyts.net
 0.0.0.0 tracker.srv00.com
@@ -3664,6 +3665,7 @@
 0.0.0.0 ultra.zt.ua
 0.0.0.0 us-tracker.publictracker.xyz
 0.0.0.0 utracker.ghostchu-services.top
+0.0.0.0 v74853.hosted-by-vdsina.com
 0.0.0.0 vibe.community
 0.0.0.0 w.wwwww.wtf
 0.0.0.0 wassermann.online
@@ -7298,6 +7300,7 @@
 0.0.0.0 www.tracker.renfei.net
 0.0.0.0 www.tracker.rescuecrew7.com
 0.0.0.0 www.tracker.shkinev.me
+0.0.0.0 www.tracker.skillindia.site
 0.0.0.0 www.tracker.skynetcloud.site
 0.0.0.0 www.tracker.skyts.net
 0.0.0.0 www.tracker.srv00.com
@@ -7338,6 +7341,7 @@
 0.0.0.0 www.ultra.zt.ua
 0.0.0.0 www.us-tracker.publictracker.xyz
 0.0.0.0 www.utracker.ghostchu-services.top
+0.0.0.0 www.v74853.hosted-by-vdsina.com
 0.0.0.0 www.vibe.community
 0.0.0.0 www.w.wwwww.wtf
 0.0.0.0 www.wassermann.online
