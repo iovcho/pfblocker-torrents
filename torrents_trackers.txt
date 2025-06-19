@@ -3542,6 +3542,8 @@
 0.0.0.0 torrent.i.ng
 0.0.0.0 torrent.tdjs.tech
 0.0.0.0 tp.m-team.cc
+0.0.0.0 tr-rh-zhuqiy.dgj055.icu
+0.0.0.0 tr-zhuqiy-1.dgj055.icu
 0.0.0.0 tr.abiir.top
 0.0.0.0 tr.abir.ga
 0.0.0.0 tr.nyacat.pw
@@ -3549,6 +3551,7 @@
 0.0.0.0 tr2.ysagin.top
 0.0.0.0 tr3.ysagin.top
 0.0.0.0 tr4ck3r.duckdns.org
+0.0.0.0 track3r.site
 0.0.0.0 trackarr.org
 0.0.0.0 tracker-udp.gbitt.info
 0.0.0.0 tracker-v6.zooki.xyz
@@ -3658,6 +3661,7 @@
 0.0.0.0 tracker2.indowebster.com
 0.0.0.0 tracker6.dler.org
 0.0.0.0 tracker6.lelux.fi
+0.0.0.0 trl-zhuqiy.dgj055.icu
 0.0.0.0 tsundere.pw
 0.0.0.0 ttk2.nbaonlineservice.com
 0.0.0.0 u.wwwww.wtf
@@ -7218,6 +7222,8 @@
 0.0.0.0 www.torrent.i.ng
 0.0.0.0 www.torrent.tdjs.tech
 0.0.0.0 www.tp.m-team.cc
+0.0.0.0 www.tr-rh-zhuqiy.dgj055.icu
+0.0.0.0 www.tr-zhuqiy-1.dgj055.icu
 0.0.0.0 www.tr.abiir.top
 0.0.0.0 www.tr.abir.ga
 0.0.0.0 www.tr.nyacat.pw
@@ -7225,6 +7231,7 @@
 0.0.0.0 www.tr2.ysagin.top
 0.0.0.0 www.tr3.ysagin.top
 0.0.0.0 www.tr4ck3r.duckdns.org
+0.0.0.0 www.track3r.site
 0.0.0.0 www.trackarr.org
 0.0.0.0 www.tracker-udp.gbitt.info
 0.0.0.0 www.tracker-v6.zooki.xyz
@@ -7334,6 +7341,7 @@
 0.0.0.0 www.tracker2.indowebster.com
 0.0.0.0 www.tracker6.dler.org
 0.0.0.0 www.tracker6.lelux.fi
+0.0.0.0 www.trl-zhuqiy.dgj055.icu
 0.0.0.0 www.tsundere.pw
 0.0.0.0 www.ttk2.nbaonlineservice.com
 0.0.0.0 www.u.wwwww.wtf
