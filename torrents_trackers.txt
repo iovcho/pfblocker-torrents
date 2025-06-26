@@ -3643,6 +3643,7 @@
 0.0.0.0 tracker.tritan.gg
 0.0.0.0 tracker.tryhackx.org
 0.0.0.0 tracker.tvunderground.org.ru
+0.0.0.0 tracker.uraniumhexafluori.de
 0.0.0.0 tracker.v6speed.org
 0.0.0.0 tracker.valete.tf
 0.0.0.0 tracker.vanitycore.co
@@ -7325,6 +7326,7 @@
 0.0.0.0 www.tracker.tritan.gg
 0.0.0.0 www.tracker.tryhackx.org
 0.0.0.0 www.tracker.tvunderground.org.ru
+0.0.0.0 www.tracker.uraniumhexafluori.de
 0.0.0.0 www.tracker.v6speed.org
 0.0.0.0 www.tracker.valete.tf
 0.0.0.0 www.tracker.vanitycore.co
