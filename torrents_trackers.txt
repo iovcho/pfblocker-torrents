@@ -3530,6 +3530,7 @@
 0.0.0.0 share.hkg-fansub.info
 0.0.0.0 shubt.net
 0.0.0.0 sparkle.ghostchu-services.top
+0.0.0.0 t.213891.xyz
 0.0.0.0 t1.leech.ie
 0.0.0.0 t2.leech.ie
 0.0.0.0 t3.leech.ie
@@ -7213,6 +7214,7 @@
 0.0.0.0 www.share.hkg-fansub.info
 0.0.0.0 www.shubt.net
 0.0.0.0 www.sparkle.ghostchu-services.top
+0.0.0.0 www.t.213891.xyz
 0.0.0.0 www.t1.leech.ie
 0.0.0.0 www.t2.leech.ie
 0.0.0.0 www.t3.leech.ie
