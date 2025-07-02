@@ -3660,6 +3660,7 @@
 0.0.0.0 tracker0.ufibox.com
 0.0.0.0 tracker01.loveapp.com
 0.0.0.0 tracker1.520.jp
+0.0.0.0 tracker1.bt.moack.co.kr
 0.0.0.0 tracker1.myporn.club
 0.0.0.0 tracker2.christianbro.pw
 0.0.0.0 tracker2.indowebster.com
@@ -7344,6 +7345,7 @@
 0.0.0.0 www.tracker0.ufibox.com
 0.0.0.0 www.tracker01.loveapp.com
 0.0.0.0 www.tracker1.520.jp
+0.0.0.0 www.tracker1.bt.moack.co.kr
 0.0.0.0 www.tracker1.myporn.club
 0.0.0.0 www.tracker2.christianbro.pw
 0.0.0.0 www.tracker2.indowebster.com
