@@ -3652,6 +3652,7 @@
 0.0.0.0 tracker.vulnix.sh
 0.0.0.0 tracker.waaa.moe
 0.0.0.0 tracker.xiaoduola.xyz
+0.0.0.0 tracker.xn--djrq4gl4hvoi.top
 0.0.0.0 tracker.yemekyedim.com
 0.0.0.0 tracker.yume-hatsuyuki.moe
 0.0.0.0 tracker.zemoj.com
@@ -7337,6 +7338,7 @@
 0.0.0.0 www.tracker.vulnix.sh
 0.0.0.0 www.tracker.waaa.moe
 0.0.0.0 www.tracker.xiaoduola.xyz
+0.0.0.0 www.tracker.xn--djrq4gl4hvoi.top
 0.0.0.0 www.tracker.yemekyedim.com
 0.0.0.0 www.tracker.yume-hatsuyuki.moe
 0.0.0.0 www.tracker.zemoj.com
