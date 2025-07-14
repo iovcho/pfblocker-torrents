@@ -3622,6 +3622,7 @@
 0.0.0.0 tracker.ololosh.space
 0.0.0.0 tracker.opentracker.se
 0.0.0.0 tracker.opentrackr.org
+0.0.0.0 tracker.pcfreetime.com
 0.0.0.0 tracker.piratepublic.com
 0.0.0.0 tracker.plx.im
 0.0.0.0 tracker.pmman.tech
@@ -3672,6 +3673,7 @@
 0.0.0.0 trl-zhuqiy.dgj055.icu
 0.0.0.0 tsundere.pw
 0.0.0.0 ttk2.nbaonlineservice.com
+0.0.0.0 ttracker.just-h.party
 0.0.0.0 u.wwwww.wtf
 0.0.0.0 udp.tracker.projectk.org
 0.0.0.0 ultra.zt.ua
@@ -7310,6 +7312,7 @@
 0.0.0.0 www.tracker.ololosh.space
 0.0.0.0 www.tracker.opentracker.se
 0.0.0.0 www.tracker.opentrackr.org
+0.0.0.0 www.tracker.pcfreetime.com
 0.0.0.0 www.tracker.piratepublic.com
 0.0.0.0 www.tracker.plx.im
 0.0.0.0 www.tracker.pmman.tech
@@ -7360,6 +7363,7 @@
 0.0.0.0 www.trl-zhuqiy.dgj055.icu
 0.0.0.0 www.tsundere.pw
 0.0.0.0 www.ttk2.nbaonlineservice.com
+0.0.0.0 www.ttracker.just-h.party
 0.0.0.0 www.u.wwwww.wtf
 0.0.0.0 www.udp.tracker.projectk.org
 0.0.0.0 www.ultra.zt.ua
