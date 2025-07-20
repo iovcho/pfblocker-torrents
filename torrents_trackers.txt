@@ -3517,6 +3517,7 @@
 0.0.0.0 public.tracker.vraphim.com
 0.0.0.0 publictracker.ch
 0.0.0.0 publictracker.xyz
+0.0.0.0 pybittrack.retiolus.net
 0.0.0.0 region.nl1.privex.cc
 0.0.0.0 retracker.baikal-telecom.net
 0.0.0.0 retracker.lanta.me
@@ -7209,6 +7210,7 @@
 0.0.0.0 www.public.tracker.vraphim.com
 0.0.0.0 www.publictracker.ch
 0.0.0.0 www.publictracker.xyz
+0.0.0.0 www.pybittrack.retiolus.net
 0.0.0.0 www.region.nl1.privex.cc
 0.0.0.0 www.retracker.baikal-telecom.net
 0.0.0.0 www.retracker.lanta.me
