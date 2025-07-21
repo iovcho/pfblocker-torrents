@@ -3544,6 +3544,7 @@
 0.0.0.0 torrent.hificode.in
 0.0.0.0 torrent.i.ng
 0.0.0.0 torrent.tdjs.tech
+0.0.0.0 torrent.tracker.durukanbal.com
 0.0.0.0 tp.m-team.cc
 0.0.0.0 tr-rh-zhuqiy.dgj055.icu
 0.0.0.0 tr-zhuqiy-1.dgj055.icu
@@ -7237,6 +7238,7 @@
 0.0.0.0 www.torrent.hificode.in
 0.0.0.0 www.torrent.i.ng
 0.0.0.0 www.torrent.tdjs.tech
+0.0.0.0 www.torrent.tracker.durukanbal.com
 0.0.0.0 www.tp.m-team.cc
 0.0.0.0 www.tr-rh-zhuqiy.dgj055.icu
 0.0.0.0 www.tr-zhuqiy-1.dgj055.icu
