@@ -3432,6 +3432,7 @@
 0.0.0.0 aruacfilmes.com.br
 0.0.0.0 asger.xyz
 0.0.0.0 asiatorrent.ddns.net
+0.0.0.0 asiatorrent.giize.com
 0.0.0.0 bandito.byterunner.io
 0.0.0.0 bclearning.top
 0.0.0.0 benouworldtrip.fr
@@ -7127,6 +7128,7 @@
 0.0.0.0 www.aruacfilmes.com.br
 0.0.0.0 www.asger.xyz
 0.0.0.0 www.asiatorrent.ddns.net
+0.0.0.0 www.asiatorrent.giize.com
 0.0.0.0 www.bandito.byterunner.io
 0.0.0.0 www.bclearning.top
 0.0.0.0 www.benouworldtrip.fr
