@@ -3578,6 +3578,7 @@
 0.0.0.0 tracker.blacksparrowmedia.net
 0.0.0.0 tracker.breizh.pm
 0.0.0.0 tracker.btnext.com
+0.0.0.0 tracker.cangku.moe
 0.0.0.0 tracker.corpscorp.online
 0.0.0.0 tracker.cutie.dating
 0.0.0.0 tracker.cyber-hub.net
@@ -7275,6 +7276,7 @@
 0.0.0.0 www.tracker.blacksparrowmedia.net
 0.0.0.0 www.tracker.breizh.pm
 0.0.0.0 www.tracker.btnext.com
+0.0.0.0 www.tracker.cangku.moe
 0.0.0.0 www.tracker.corpscorp.online
 0.0.0.0 www.tracker.cutie.dating
 0.0.0.0 www.tracker.cyber-hub.net
