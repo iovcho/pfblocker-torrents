@@ -3473,6 +3473,7 @@
 0.0.0.0 fosstorrents.com
 0.0.0.0 free-tracker.zooki.xyz
 0.0.0.0 git.vulnix.sh
+0.0.0.0 hificode.in
 0.0.0.0 highteahop.top
 0.0.0.0 home.yxgz.club
 0.0.0.0 inferno.demonoid.is
@@ -3511,6 +3512,7 @@
 0.0.0.0 opentracker.io
 0.0.0.0 opentracker.xyz
 0.0.0.0 p2p.publictracker.xyz
+0.0.0.0 passpulse.net
 0.0.0.0 peerfect.org
 0.0.0.0 prestige.minimafia.nl
 0.0.0.0 public-tracker.zooki.xyz
@@ -3607,6 +3609,7 @@
 0.0.0.0 tracker.guguan.dpdns.org
 0.0.0.0 tracker.guguan.us.kg
 0.0.0.0 tracker.halfchub.club
+0.0.0.0 tracker.healthcareindia.store
 0.0.0.0 tracker.hifimarket.in
 0.0.0.0 tracker.hifitechindia.com
 0.0.0.0 tracker.home.kmzs123.cn
@@ -3662,6 +3665,7 @@
 0.0.0.0 tracker.vectahosting.eu
 0.0.0.0 tracker.vulnix.sh
 0.0.0.0 tracker.waaa.moe
+0.0.0.0 tracker.wepzone.net
 0.0.0.0 tracker.xiaoduola.xyz
 0.0.0.0 tracker.xn--djrq4gl4hvoi.top
 0.0.0.0 tracker.yemekyedim.com
@@ -3669,6 +3673,7 @@
 0.0.0.0 tracker.zemoj.com
 0.0.0.0 tracker.zhuqiy.dgj055.icu
 0.0.0.0 tracker.zhuqiy.top
+0.0.0.0 tracker.zupix.online
 0.0.0.0 tracker0.ufibox.com
 0.0.0.0 tracker01.loveapp.com
 0.0.0.0 tracker1.520.jp
@@ -7171,6 +7176,7 @@
 0.0.0.0 www.fosstorrents.com
 0.0.0.0 www.free-tracker.zooki.xyz
 0.0.0.0 www.git.vulnix.sh
+0.0.0.0 www.hificode.in
 0.0.0.0 www.highteahop.top
 0.0.0.0 www.home.yxgz.club
 0.0.0.0 www.inferno.demonoid.is
@@ -7209,6 +7215,7 @@
 0.0.0.0 www.opentracker.io
 0.0.0.0 www.opentracker.xyz
 0.0.0.0 www.p2p.publictracker.xyz
+0.0.0.0 www.passpulse.net
 0.0.0.0 www.peerfect.org
 0.0.0.0 www.prestige.minimafia.nl
 0.0.0.0 www.public-tracker.zooki.xyz
@@ -7305,6 +7312,7 @@
 0.0.0.0 www.tracker.guguan.dpdns.org
 0.0.0.0 www.tracker.guguan.us.kg
 0.0.0.0 www.tracker.halfchub.club
+0.0.0.0 www.tracker.healthcareindia.store
 0.0.0.0 www.tracker.hifimarket.in
 0.0.0.0 www.tracker.hifitechindia.com
 0.0.0.0 www.tracker.home.kmzs123.cn
@@ -7360,6 +7368,7 @@
 0.0.0.0 www.tracker.vectahosting.eu
 0.0.0.0 www.tracker.vulnix.sh
 0.0.0.0 www.tracker.waaa.moe
+0.0.0.0 www.tracker.wepzone.net
 0.0.0.0 www.tracker.xiaoduola.xyz
 0.0.0.0 www.tracker.xn--djrq4gl4hvoi.top
 0.0.0.0 www.tracker.yemekyedim.com
@@ -7367,6 +7376,7 @@
 0.0.0.0 www.tracker.zemoj.com
 0.0.0.0 www.tracker.zhuqiy.dgj055.icu
 0.0.0.0 www.tracker.zhuqiy.top
+0.0.0.0 www.tracker.zupix.online
 0.0.0.0 www.tracker0.ufibox.com
 0.0.0.0 www.tracker01.loveapp.com
 0.0.0.0 www.tracker1.520.jp
