@@ -3544,6 +3544,7 @@
 0.0.0.0 torrent.tracker.durukanbal.com
 0.0.0.0 tp.m-team.cc
 0.0.0.0 tr-rh-zhuqiy.dgj055.icu
+0.0.0.0 tr-zhuqiy-2.dgj055.icu
 0.0.0.0 tr.abiir.top
 0.0.0.0 tr.abir.ga
 0.0.0.0 tr.nyacat.pw
@@ -3650,6 +3651,7 @@
 0.0.0.0 tracker2.indowebster.com
 0.0.0.0 tracker6.dler.org
 0.0.0.0 tracker6.lelux.fi
+0.0.0.0 trl-zhuqiy.dgj055.icu
 0.0.0.0 tsundere.pw
 0.0.0.0 ttk2.nbaonlineservice.com
 0.0.0.0 u.wwwww.wtf
@@ -7211,6 +7213,7 @@
 0.0.0.0 www.torrent.tracker.durukanbal.com
 0.0.0.0 www.tp.m-team.cc
 0.0.0.0 www.tr-rh-zhuqiy.dgj055.icu
+0.0.0.0 www.tr-zhuqiy-2.dgj055.icu
 0.0.0.0 www.tr.abiir.top
 0.0.0.0 www.tr.abir.ga
 0.0.0.0 www.tr.nyacat.pw
@@ -7317,6 +7320,7 @@
 0.0.0.0 www.tracker2.indowebster.com
 0.0.0.0 www.tracker6.dler.org
 0.0.0.0 www.tracker6.lelux.fi
+0.0.0.0 www.trl-zhuqiy.dgj055.icu
 0.0.0.0 www.tsundere.pw
 0.0.0.0 www.ttk2.nbaonlineservice.com
 0.0.0.0 www.u.wwwww.wtf
