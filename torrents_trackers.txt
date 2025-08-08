@@ -3443,6 +3443,7 @@
 0.0.0.0 bms-hosxp.com
 0.0.0.0 brokenstones.is
 0.0.0.0 bt.3kb.xyz
+0.0.0.0 bt.bontal.net
 0.0.0.0 bt.ktrackers.com
 0.0.0.0 bt.okmp3.ru
 0.0.0.0 bt.poletracker.org
@@ -3544,6 +3545,7 @@
 0.0.0.0 torrent.tracker.durukanbal.com
 0.0.0.0 tp.m-team.cc
 0.0.0.0 tr-rh-zhuqiy.dgj055.icu
+0.0.0.0 tr-zhuqiy-1.dgj055.icu
 0.0.0.0 tr-zhuqiy-2.dgj055.icu
 0.0.0.0 tr.abiir.top
 0.0.0.0 tr.abir.ga
@@ -7115,6 +7117,7 @@
 0.0.0.0 www.bms-hosxp.com
 0.0.0.0 www.brokenstones.is
 0.0.0.0 www.bt.3kb.xyz
+0.0.0.0 www.bt.bontal.net
 0.0.0.0 www.bt.ktrackers.com
 0.0.0.0 www.bt.okmp3.ru
 0.0.0.0 www.bt.poletracker.org
@@ -7216,6 +7219,7 @@
 0.0.0.0 www.torrent.tracker.durukanbal.com
 0.0.0.0 www.tp.m-team.cc
 0.0.0.0 www.tr-rh-zhuqiy.dgj055.icu
+0.0.0.0 www.tr-zhuqiy-1.dgj055.icu
 0.0.0.0 www.tr-zhuqiy-2.dgj055.icu
 0.0.0.0 www.tr.abiir.top
 0.0.0.0 www.tr.abir.ga
