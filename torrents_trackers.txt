@@ -3415,13 +3415,6 @@
 0.0.0.0 zooqle.unblocked.llc
 0.0.0.0 zoozle.org
 0.0.0.0 ztracker.hu
-0.0.0.0 0205.uptm.ch
-0.0.0.0 forever.publictracker.xyz
-0.0.0.0 tracker.idocdn.com
-0.0.0.0 ip.getcrazy.me
-0.0.0.0 mma-tracker.org
-0.0.0.0 brokenstones.is
-0.0.0.0 tracker.opentrackr.org
 0.0.0.0 www.zamunda.net
 0.0.0.0 www.zamunda.se
 0.0.0.0 www.zamunda.ch
@@ -6839,10 +6832,3 @@
 0.0.0.0 www.zooqle.unblocked.llc
 0.0.0.0 www.zoozle.org
 0.0.0.0 www.ztracker.hu
-0.0.0.0 www.0205.uptm.ch
-0.0.0.0 www.forever.publictracker.xyz
-0.0.0.0 www.tracker.idocdn.com
-0.0.0.0 www.ip.getcrazy.me
-0.0.0.0 www.mma-tracker.org
-0.0.0.0 www.brokenstones.is
-0.0.0.0 www.tracker.opentrackr.org
