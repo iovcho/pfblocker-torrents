@@ -1644,6 +1644,7 @@
 0.0.0.0 natorrente.com
 0.0.0.0 ncore.cc
 0.0.0.0 ncore.hu
+0.0.0.0 ncore.pro
 0.0.0.0 nemesis09.com
 0.0.0.0 nerealus.lt
 0.0.0.0 netbsd.org
@@ -5066,6 +5067,7 @@
 0.0.0.0 www.natorrente.com
 0.0.0.0 www.ncore.cc
 0.0.0.0 www.ncore.hu
+0.0.0.0 www.ncore.pro
 0.0.0.0 www.nemesis09.com
 0.0.0.0 www.nerealus.lt
 0.0.0.0 www.netbsd.org
